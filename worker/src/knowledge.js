@@ -1,0 +1,2310 @@
+export default `
+
+========== SOURCE: 25_Tough_Questions_For_Founders.pdf ==========
+
+25 Tough Questions to Discuss Early and Often with Your Cofounding Team
+Collated from Google Launchpad Accelerator founders
+
+
+                                                            Joining the startup
+
+      1.   Worth my time:​ Why am I working on this startup? What would I need to experience, achieve and receive for it to feel worth
+           the time, effort and money?
+      2.   Value each brings:​ What value will I bring into the startup? Skills/experience, resources, networks?
+      3.   Going in full-time:​ At what point should all founders quit their jobs and do this full-time? What do we do if a cofounder
+           cannot work on this startup full-time for personal / professional reasons?
+      4.   Equity: ​What share of the company am I willing to give to other cofounders we bring in? What conditions would have to be
+           met for a new cofounder’s equity to vest?
+
+                                                            Growing the startup
+
+      5.  New cofounders:​ When and for what roles would we invite new cofounders?
+      6.  Raising money:​ What role would each of us play in raising money?
+      7.  Investors:​ Are we aligned on the kind of investors we would want to work with? Would we turn down certain investors? If
+          one of our friends/relatives want to invest, would we welcome that?
+      8. Spending money:​ If we raised $5M today, how would we want to spend the money? Would we want a certain level of
+          professional lifestyle (e.g., nice office location) or prefer to keep it basic?
+      9. Running out of money:​ If we’ve run out of money, what would we be ready to do? Ask friends/relatives for help, put in our
+          own money, take no salary?
+      10. Hiring:​ Should we have a small or big team? Will we hire based on skills/experience and/or values/mindset?
+      11. Firing:​ How would we deal with poor performers? Would we fire employees based on performance and/or values?
+
+                                                            Running the startup
+
+      12. Decision making:​ Do we rely more on data or intuition? Are each of our styles complementary or conflicting?
+      13. Raising/resolving disagreements: ​Do we raise productive disagreements with each other? Can we work well with each
+          other’s style in debating/disagreeing? How will we resolve big disagreements when trust is broken?
+      14. Feedback:​ If one of us doesn’t meet expectations, would others be comfortable to have a sensitive conversation about it?
+          Would each of us be willing to take feedback?
+      15. Stress:​ When shit hits the fan, is my team made up of the kind of persons I’d want to firefight with (firefight = dealing with
+          high-stress problems)? Would I tend to add to the stress or help the team stay calm?
+      16. Anger:​ What would we say or do when angry? Can we deal with that? Do we fight ‘well’ together?
+      17. Gossip:​ If gossip or complaints are shared with me with another cofounder, what would we do?
+
+                                                          Life outside the startup
+
+      18. Media: ​If a popular TV show or other such media company asks for an interview with just 1 person from the startup, who
+          would that be? Would we be comfortable with that?
+      19. Friendship: ​Do we think it is valuable to build a strong friendship outside of work?
+      20. Location:​ If the business requires us to move to another city/country, would we be willing to move?
+      21. Co-location:​ Do I believe we can work well if we lived in different cities? If a cofounder needs to relocate for personal
+          reasons, would he/she need to leave the company?
+
+                                                            Exiting the startup
+
+      22. Unable to scale:​ If down the line one of us doesn’t scale and holds back the company, what are fair actions we would do to
+          move forward without him/her?
+      23. Resignation: ​What would be fair reasons for one of us to resign from the company?
+      24. Exit: ​Are we aligned on possible exit plans?​ ​If a large company offers to buy us out before we intend to exit, would we want
+          to sell? Under what conditions would we not want to sell? Are we aligned on that?
+      25. Failure:​ At what point will we decide this startup is a failure?
+
+
+
+
+Developed by Martin Gonzalez (martingonzalez@google.com), creator of Google Launchpad LeadersLab and FoundersLab for Startup Founders
+
+
+========== SOURCE: Cofounding Team “Bugs” through the Lens of Cognitive Biases.docx ==========
+
+Cofounding Team “Bugs” through the Lens of Cognitive Biases
+I. Cognitive Biases Underlying Common Cofounder Bugs
+Early-stage startup teams often fall prey to predictable cognitive biases – ingrained thought patterns that skew judgment – which manifest as the “25 common bugs” in cofounder dynamics. Below we group these bugs by the bias driving them, explain each bias in founder-friendly terms, and illustrate how it leads to specific team issues. (Multiple bugs often stem from the same bias, as noted.)
+Groupthink and Conflict-Avoidance Bias
+When cofounders prioritize harmony over honesty, they can fall into groupthink – a false consensus where everyone outwardly agrees to avoid conflict. The classic Abilene Paradox arises: “everyone’s afraid to be the lone voice of dissent, leading a team down a path no one actually wanted” . This bias yields several bugs:
+False Positive: Team members say “yes” just to avoid disagreement, even when they secretly disagree. The fear of conflict means true opinions stay hidden, setting the stage for future misalignment.
+
+Concealed Consensus: The team confuses mere participation in discussion with real agreement. Everyone speaks, but no one verifies if a decision was reached – a miscommunication bias that leaves lingering dissent unaddressed.
+
+Agreement Trap: Founders believe unanimity is required before taking action. This need for everyone’s approval (driven by conflict aversion) paralyzes decision-making – nothing happens until all voices chime “yes,” which rarely occurs.
+
+Backchanneling: Rather than confronting issues directly, cofounders gossip or vent offline. This indirect communication signals low psychological safety and fear of open conflict. It temporarily avoids a tough conversation but erodes trust long-term.
+
+Deflect by Escalation: Difficult decisions or disagreements are punted “upwards” to the CEO/board. Founders avoid the stress of hashing it out peer-to-peer, preferring an authority figure to intervene. This reflects both conflict avoidance and a reliance on authority (see Authority Bias below), ultimately stunting the team’s ability to resolve issues internally.
+
+Together, these behaviors illustrate how fear of conflict leads to poor communication and indecision. Instead of candid debate, the team defaults to false harmony, which can be just as destructive as open infighting.
+Status Quo Bias and Decision Inaction
+Founders often exhibit status quo bias – a preference for keeping things as they are rather than making a tough change. Avoiding any decision feels safer than choosing and potentially being wrong . This bias, coupled with general decision avoidance, causes cofounders to delay or dodge critical choices, as seen in:
+“Do What You Please”: The team fails to force trade-offs or set priorities . Each founder just does what they want, because committing to one course means sacrificing others. This reflects an omission bias – by not deciding, they avoid the pain of saying no to any option. In reality, this avoidance wastes time/resources due to lack of focus .
+
+Crisis Jumping: The company only acts decisively in fires and emergencies, then lapses into inertia. This pattern suggests a normalcy bias between crises – assuming things are fine until the next disaster forces action. It’s safer (psychologically) to maintain status quo during calm periods, even if that means neglecting preventive decisions.
+
+Ignore-It-and-It-Will-Self-Correct: Founders stick their heads in the sand, assuming a problem is “just a phase” that will fix itself. This is essentially the ostrich effect, driven by optimism bias (“it won’t blow up on us”) and avoidance. By postponing action, they maintain the status quo a bit longer – at the risk of a larger blowup later.
+
+In all these cases, inaction is the choice. The bias is a false sense of security in not rocking the boat . However, as founders eventually learn, avoiding decisions is a decision – often the worst one.
+Halo Effect and Authority Bias
+Startup teams can be misled by surface credentials or hierarchy, exhibiting the halo effect – a tendency to overrate someone’s ideas or abilities based on one positive trait (like a fancy resume or title). Likewise, authority bias leads founders to defer to opinions of those with rank or external status. These biases underlie:
+Brilliant by Category: Cofounders judge colleagues (or hires) by pedigree – “title, rank, past employers, schools…” – rather than actual competence. A well-known alumnus in the team might get a pass on poor performance, or their ideas carry undue weight because “they worked at Google.” This halo thinking is dangerous: it silences less pedigreed voices and can promote incompetence over merit.
+
+(Related: Deflect by Escalation – mentioned earlier – also involves authority bias. The team implicitly trusts the CEO or board to make the call, perhaps assuming the “higher-ups” know best. This deference can undermine the founding team’s own decision-making accountability.)
+
+In short, perceived status can cloud a startup’s judgment. Decisions get made based on who proposes them, not the idea’s merit. A founder might ignore a junior engineer’s valid concern while obeying a mentor’s flawed advice – simply due to authority bias. Overcoming this means consciously evaluating ideas on substance and encouraging equal voice, regardless of rank.
+In-Group Bias and Tribalism
+Early teams often split into “us vs. them” factions, a product of in‑group favoritism. We naturally favor those on “our side” (our function, our friend) and distrust outsiders. This bias erodes a unified company culture and appears in:
+My Team vs. Your Team: Rather than a cohesive founding team, individuals protect their turf and resources. For example, the CTO might hoard budget for engineering while viewing marketing as an adversary. This silo mentality means “systemic thinking and the vision of the larger organization are absent” – everyone optimizes for their department over the startup’s collective good. In-group bias breeds internal competition instead of collaboration.
+
+Crippling Empathy: Here the “in-group” may be as small as one other person – e.g. a cofounder you have a close personal bond with. Founders make endless excuses for a beloved team member’s poor performance. Loyalty and empathy are positives, but overdone, they become bias: the individual is never held accountable (“he’s going through a lot, it’s fine”), which is unfair to the rest of the team. This leniency bias toward one favored person blinds you to how they could improve or how they might be dragging the team down.
+
+Both bugs highlight how favoritism and tribal loyalties undermine a startup. Whether it’s inter-departmental rivalry or cutting slack for a friend, the bias is an uneven playing field – trust and accountability are applied selectively. Great founding teams instead strive for a one-team mentality with equal standards for all.
+Action Bias (Busyness over Purpose)
+Entrepreneurs often have a bias for action – the urge to do something… sometimes anything, rather than sit idle. Taking action feels in control, while reflection feels like stagnation. This bias, coupled with a cultural glorification of busyness, produces behaviors like:
+“Busy = Effective”: Founders equate activity with productivity – full calendars, constant hustle – even when those efforts don’t yield results. This is a productivity myth: being busy can mean you’re not prioritizing effectively, as leadership coaches often note . Here it’s a cognitive shortcut – if I’m busy, I must be doing good work. In reality, this bias toward being in motion can crowd out strategic thinking and lead to burnout.
+
+What More than Why: Teams focus on tasks (“the what”) and neglect the underlying purpose or strategy (“the why”). This reflects an action-oriented mindset that values immediate outputs over reflection. Founders dive into writing code or sales outreach without aligning on why those tasks matter. The cognitive driver is similar to busy=effective: doing something tangible feels productive, while discussing vision feels abstract. Over time, this bias can cause strategic drift – lots of work being done with no clear unifying direction.
+
+In both cases, the team is biased toward doing over thinking. An action bias isn’t all bad in a startup (execution matters!), but without checks it leads to “motion over meaning.” The antidote is taking time to clarify priorities and purpose – ensuring the work ties back to a why. (As one of Google’s five dynamics of effective teams puts it, Structure & Clarity – clear goals and roles – is key.)
+Attribution Biases (FAE and Self-Serving Tendencies)
+How founders explain successes and failures can be heavily biased. Two common distortions are the fundamental attribution error (FAE) – blaming a person’s character for mistakes while excusing our own by circumstance – and the self-serving bias – taking personal credit for wins and externalizing blame for losses. These lead to toxic team dynamics such as:
+Fundamental Attribution Error: This is explicitly listed as a bug, and it captures the bias well: “When understanding someone else’s mistakes, people attribute it to internal factors (e.g. laziness or incompetence). When understanding our own mistakes, we attribute it to external factors”. In a cofounding team, FAE means if your partner slips up, you think “he’s just not committed”, but if you slip up, “I had unforeseen challenges.” This bias breeds resentment and misjudgment – cofounders become less forgiving of each other than themselves. It underpins many conflicts and trust issues (e.g., assuming a cofounder’s late deliverable means they’re lazy, not that they were pulled into investor meetings).
+
+Ad Hominem Attacks: This bug – attacking the person instead of the problem – is often a result of attribution bias. When something goes wrong, a founder high on FAE will zero in on a teammate’s perceived personal flaws (“our marketing head is clueless!”) rather than analyzing the system or circumstances that caused the issue. It’s an emotional, biased response that personalizes conflict and erodes team morale. Essentially, the cofounder’s ego biases them to lash out at someone’s character (an “internal factor”) instead of objectively solving the problem.
+
+Lone Hero: On the flip side of blame, success can also be misattributed due to self-serving bias. When the startup wins, one individual (often oneself) may grab outsized credit. It’s the hero syndrome – believing “the win was all thanks to me”. Psychology research notes that “individuals with self-serving bias attribute team successes to their own actions, failing to acknowledge others’ contributions”, which demotivates the team . A founder might genuinely think their leadership alone saved the day, overlooking teammates’ efforts or lucky timing. This bias inflates egos and breeds discontent, as others feel invisible.
+
+In all these cases, cognitive biases in attribution skew the narrative of team performance. Failures become personal (“you messed up”), and successes feed individual egos. Founders and VCs must recognize these biases because they poison team trust. By deliberately crediting the team for wins and treating mistakes with curiosity (not character judgments), teams can counteract FAE and self-serving distortions.
+Diffusion of Responsibility (Bystander Effect)
+If “everyone is responsible,” often no one feels responsible. This is the psychology of the bystander effect, where individuals assume someone else will take action. In startups, this diffusion of responsibility is deadly – tasks fall through the cracks because each founder thought another had it. The clearest example:
+Invisible Owner: After meetings, the team agrees on action items, but “it doesn’t feel like anyone is taking ownership to make it happen”. The outcome is an illusion of agreement with no execution. Each founder may think, “Surely Anne or Bob will follow up on that.” Meanwhile, Anne and Bob think the same, and nothing gets done. As one startup coach warns, “Diffusion of responsibility… it’s when someone is less likely to take action when others are present, assuming others will do it” . In a founding team of 4, it’s easy to assume another cofounder will handle a given problem – resulting in zero accountability.
+
+This bias often lurks behind the scenes of other bugs as well. For instance, Deflect by Escalation (escalating decisions to the CEO) is a form of diffusing responsibility upward – founders don’t own the tough call themselves. Regardless of form, the antidote is the same: make ownership explicit. Great teams counter diffusion bias by clearly assigning tasks (“Who is driving this?”) and fostering a culture where each founder feels personal accountability for the business. Without that, important decisions and duties fall into a void.
+Overconfidence and Overcommitment (Planning Fallacy)
+Startup founders are famously optimistic – but often overoptimistic about what they can achieve. Overconfidence bias is “a well-established bias in which someone’s subjective confidence in their judgments exceeds the objective accuracy” . Hand-in-hand comes the planning fallacy, our tendency to grossly underestimate how much time or resources a task will take . These biases push teams to take on too much and push boundaries unwisely, showing up as:
+Priority Clutter: The team sets too many priorities and refuses to say no, ending up with scattered focus and lots of unfinished projects. This is a textbook case of planning fallacy – the founders assumed they could execute all these initiatives simultaneously, underestimating the effort required for each. It’s also fueled by overconfidence: a belief that “we can do it all” when in reality, doing everything means doing nothing well. As one entrepreneurship article notes, founders in the grip of this bias “generally underestimate the amount of time or resources it takes” to deliver, risking running out of runway .
+
+Results at All Cost: The team is so outcome-driven (perhaps due to overconfident vision of success) that they will bend or break rules and principles to get there. This can stem from overconfidence bias – founders believing their startup’s success is inevitable or supremely important, thus justifying unethical shortcuts (“we’ll fix things after we hit our growth metrics”). It may also relate to outcome bias – judging decisions by results rather than the quality of the process. Here, the bias leads the team to ignore ethical/process red flags because they are certain that achieving the result is what matters. Overconfident in their trajectory, they assume any cost paid now won’t backfire later.
+
+In both cases, unrealistic optimism is the culprit. Priority clutter shows overconfidence in the team’s capacity (and a failure to plan realistically ), while an “ends justify means” attitude shows overconfidence in the startup’s infallibility. For founders and early-stage investors, recognizing these biases is vital: temper ambition with realism. Ruthless prioritization and ethical guardrails help counteract founders’ natural overestimation of themselves.
+Confirmation Bias and Quick Judgments
+Founders often form an initial belief or narrative and then favor information that confirms it, ignoring contrary evidence. This is the classic confirmation bias . Alongside it is a tendency for hasty generalization – jumping to broad conclusions from limited data. In cofounder relationships, these biases cause misreads of each other’s motives and potential:
+Simple Stories (Single-Cause Fallacy): Humans love a clear, simple explanation. Cofounders may make “snap judgments about why others do certain things without checking assumptions”, failing to suspend judgment for the complex reality. For example, if a cofounder misses a meeting, one might immediately conclude “he’s careless” (a simple story) rather than considering overlapping factors (he was juggling a customer call, a personal issue, and genuinely forgot). This causal oversimplification is a cognitive bias – assuming one easy-to-believe cause – often reinforced by confirmation bias (we notice facts that fit our story). It prevents teams from investigating the full picture.
+
+Pattern Spotting Error: A founder sees one negative incident and assumes it’s an enduring pattern. For instance, if a new engineer screws up one deployment, the CTO instantly thinks “we made a bad hire, they’re going to keep messing up.” This is essentially a hasty generalization, leaping from one data point to a firm belief. Confirmation bias then kicks in – the CTO will be primed to notice any small mistake that “proves” this narrative, while discounting evidence of the engineer’s improvement. Such bias can unfairly stigmatize team members or lead to overcorrecting processes based on a very limited sample.
+
+In both bugs, the team members jump to conclusions that confirm their preconceptions. The antidote is deliberate curiosity and data gathering – in other words, checking assumptions. Instead of immediately settling on a simple narrative or presumed pattern, effective cofounders ask questions and seek more evidence. Awareness of confirmation bias can remind founders that their first explanation might be convenient – and wrong.
+Negativity Bias and Fear of Failure (Loss Aversion)
+Startups face constant risk, and many founders develop a negativity bias – a tendency to give more weight to negative possibilities or experiences. Our brains are wired to register threats more strongly than opportunities . Relatedly, loss aversion makes the pain of losing feel worse than the pleasure of an equal gain. These biases can sap a young company’s dynamism, resulting in:
+Criticize Everything: The team shoots down new ideas with a barrage of hypothetical negatives. This cynicism often comes from an exaggerated focus on potential downsides (negativity bias). Founders imagine worst-case scenarios for every proposal and thus “over-evaluate and criticize everything” into paralysis. There is also an element of loss aversion – any proposal is seen in terms of what could go wrong or be lost, outweighing its potential benefits. While prudent risk assessment is good, this bias leads to killing ideas before they have a chance, which in a startup means killing growth.
+
+Perfectionism: The team sets unattainably high standards, so they end up not acting at all or moving far too slowly. This stems from fear of failure – a cognitive distortion where anything short of perfect success is seen as a disastrous loss. Loss aversion amplifies this: shipping an imperfect feature feels like accepting a loss (of quality or face), so they’d rather not ship at all. Psychologically, it’s safer to do nothing than risk an imperfect result. The “nirvana fallacy” is at play – rejecting good initiatives because they aren’t “perfect.” In the fast-paced startup context, this bias can be fatal; opportunities slip away while the team polishes gold plating.
+
+Panic Bubble: When a crisis does hit, panic overwhelms the team, leading to frantic overwork and burnout. This is where negativity bias flips into overdrive – the one bad event dominates everyone’s psyche and triggers fight-or-flight mode. The wording “unnecessary, self-inflicted intensity” is telling. Rather than responding calmly, the team’s cognitive bias towards catastrophic thinking amplifies the issue, hurting decision-making and health. They may treat a minor setback as an existential threat. The panic then spreads (emotional contagion), creating an anxiety-fueled atmosphere that burns trust and morale. Often, this is followed by a crash – everyone is exhausted, and as soon as the panic subsides, they’re back to inaction (which ties to the crisis jumping cycle).
+
+All three behaviors illustrate how over-focusing on negatives undermines a startup’s progress. The fear of loss or failure looms larger than the prospect of gain, so either nothing new is tried, or any hiccup sends the team into overreaction. Founders and investors should recognize this bias especially in technical or risk-averse teams. By consciously incorporating optimism, accepting “small failures” as learning, and setting pragmatic standards (e.g. MVP mindset), teams can balance out the natural negativity bias and move forward decisively without excess fear.
+In summary, each “bug” in a cofounding team can be traced to one or more human cognitive biases. Founders are only human – under stress and uncertainty, our brains use shortcuts that feel right but lead us astray. By identifying these biases – from groupthink to halo effect to loss aversion – founders and early-stage VCs can better understand why teams behave in dysfunctional ways. More importantly, they can anticipate these pitfalls and institute practices (e.g. explicit feedback norms, clear ownership, bias awareness exercises) to mitigate them. A little psychology goes a long way in debugging team dynamics .
+II. Themes from FoundersLab: Bugs as Teaching Moments
+Using Google’s FoundersLab frameworks and the Founders’ User Guide, we can categorize these 25 cofounder bugs into key thematic areas. Each theme corresponds to concepts emphasized in founder training – such as aligning on vision, managing conflict, ensuring accountability, sound decision-making, and building trust. Below, we integrate each bug into the relevant FoundersLab theme, explaining how it illustrates what can go wrong and how it interferes with the healthy team practices advocated in the FoundersLab Master Deck and User Guide.
+Feedback and Conflict Management
+Effective cofounder teams proactively address how they give feedback and resolve conflicts. The Founders’ User Guide explicitly has a section for founders to share “the best way to give me feedback” and how to handle disagreements . Psychological safety is crucial – team members need to feel safe to speak up with concerns or dissent . When these norms are absent, the following “bugs” occur, each demonstrating poor feedback or conflict management:
+False Positive (Pretend Agreement): Instead of voicing disagreement, a cofounder stays silent or says “I’m fine with it”. This bug shows conflict avoidance at the expense of honesty. It undermines the FoundersLab principle that unmet expectations and unspoken concerns will erode trust. In a FoundersLab workshop, this would be a prime example of what happens when a team lacks psychological safety – individuals don’t feel safe to object, so real issues go underground. Over time, that hidden dissent can blow up into bigger conflict or lead to execution failures (since someone who quietly disagrees may not fully invest in the plan). Teaching moment: encourage open dialogue and assure founders that surfacing disagreement is healthier than false harmony.
+
+Backchanneling (Gossip): A cofounder with feedback or grievances chooses to complain to third parties (or team members) behind someone’s back. This circumvents the direct feedback loop that the User Guide pushes founders to establish . In the FoundersLab Master Deck, this behavior would be flagged as detrimental to psychological safety – it creates an environment of secret chatter rather than open resolution. It’s also a classic symptom of not having agreed-upon conflict management strategies. FoundersLab content on conflict likely emphasizes addressing issues with the person involved, not about them in side conversations. This bug thus interferes with building a culture of trust and openness. It’s a great “what not to do” story when teaching founders: if you find yourself venting about a cofounder to others, it’s a sign you need a better direct feedback mechanism.
+
+Deflect by Escalation: Here, cofounders avoid confronting each other and instead take problems to the CEO or an external advisor. This bug exemplifies poor conflict management – the founders “delegate” conflict upward. In the FoundersLab framework, this is problematic because it prevents peer-to-peer resolution and overloads the CEO. The “Feedback and Conflict” section of the User Guide encourages founders to articulate how they handle conflict personally – deflecting issues to a higher authority is not a sustainable strategy. It indicates that the cofounders haven’t developed trust or skills to hash out disagreements among themselves. As a teaching moment, one could tie this to the concept of empowering the team – effective founding teams should strive to resolve tensions internally, only involving the CEO when absolutely necessary. Otherwise, you introduce decision bottlenecks and weaken the partnership’s ability to self-correct.
+
+Ad Hominem Attacks: When under stress, instead of debating the issue, a founder attacks their teammate personally. This is obviously a conflict management failure – it’s the opposite of constructive feedback. FoundersLab training would likely reference keeping debates respectful and task-focused. An ad hominem attack illustrates what happens when emotions run high and founders lack conflict resolution techniques. It “attacks the messenger, not the problem”, which can deeply damage relationships. In a FoundersLab session, one might use this bug to discuss the importance of separating person from problem (as in classic conflict resolution frameworks). It also ties to managing ego and anger – coaches could discuss how to recognize when you’re about to cross into personal attack territory and strategies (like taking a pause) to prevent that. This bug, once it occurs, often requires serious repair to trust. So it underscores the cost of unmanaged conflict: not only is the original issue unresolved, now there’s a new interpersonal rift to heal.
+
+Collectively, these bugs show how not to manage feedback and conflict. They illustrate the consequences of avoiding tough conversations, failing to set conflict norms, or letting emotions drive interactions. FoundersLab materials (like the User Guide’s conflict section) emphasize making feedback explicit and discussing conflict styles upfront . By examining these failure modes, founders can appreciate why those guidelines exist. For instance, had the teams above filled out and honored their User Guides, the “false agreement” or “backchanneling” scenarios might have been replaced by honest, direct communication in a safe setting – preventing larger blowups.
+Vision and Alignment
+A shared vision and alignment on “why” the founders are doing this are foundational for startup teams. The Google FoundersLab Master Deck and User Guide stress aligning personal motivations and company vision early. In fact, the User Guide Section 1 prompts founders to openly share their “Head, Heart, and Wallet” motivations and get on the same page about purpose . When vision and goals are not aligned, various bugs emerge that fragment the team’s direction:
+My Team vs. Your Team: Instead of rallying around one vision, cofounders become siloed, each focusing on their own function’s success at the expense of the whole. This internal turf war indicates a lack of alignment on overall vision – each leader might have a different idea of what’s most important (e.g., user growth vs. product perfection vs. revenue). The FoundersLab deck likely discusses the importance of breaking silos and creating a shared identity for the founding team. This bug is a cautionary tale: when alignment on vision and priorities is weak, teams balkanize. It interferes with any unified strategy – resources get fought over rather than allocated by common goal. In the context of FoundersLab content, one could tie this to the need for clarity in mission and constant communication of shared goals. An aligned team says “our team” and focuses on beating competitors outside, not each other. This bug vividly shows what happens without that alignment: internal competition and mistrust trumping collaborative progress.
+
+Functional Blinders: This is closely related – “No one except the CEO sees the big picture… [others are] lost in details”. Each founder is heads-down in their own silo and can’t articulate how their work ties into the broader vision. This bug demonstrates misalignment in understanding the vision or strategy. FoundersLab Master Deck likely covers the importance of everyone knowing the company’s north star and how roles connect to it (akin to Google’s “Structure & Clarity” factor: “the team has clear roles, plans, and goals”). With functional blinders, that clarity is missing – only the CEO might see the whole puzzle, and she fails to convey it to others. As a teaching point, this bug highlights the risk of not regularly sharing context. Startup teams should ideally discuss progress and how each function contributes to the mission, so that even non-CEOs maintain a wide-angle lens. Otherwise you get local optimizations and potentially conflicting efforts. The FoundersLab theme of “Vision & Alignment” would use this bug to show the need for over-communication of vision. When cofounders understand how their pieces fit the big picture, they can move in concert instead of in silos.
+
+Do What You Please: The team doesn’t enforce a unified plan; each person pursues what they individually think is best . This bug is essentially misalignment in priorities. It often occurs when there isn’t a clearly agreed strategy or product direction. FoundersLab presentations to early teams often emphasize setting a single vision and key priorities (e.g., OKRs or similar) to focus effort. Here, that didn’t happen – perhaps each founder had a different vision of the product or target market, and rather than resolving it, they implicitly agreed to disagree and work separately. This obviously derails execution – as the bug says, it “wastes time/resources because we can’t prioritize” . In a vision-alignment workshop, this scenario would underscore why startups need a clear decision on direction (even if it means some founders’ ideas won’t be pursued). It’s better to commit to one path (and iterate) than let multiple visions fracture the team’s focus. This bug shows the outcome of failing to align: no coherent strategy and lots of wasted effort.
+
+What More Than Why: The team agrees on tasks without agreeing on the underlying purpose. They are busy executing “what to do” but not unified on “why we’re doing it.” This is a direct hit on the Vision aspect – it indicates a shallow alignment. FoundersLab Master Deck likely talks about the importance of mission (the “why”) in motivating teams and guiding decisions. When cofounders skip the discussion of why, they might find later that they had different assumptions or criteria for success. This bug also foreshadows conflict: if one founder was doing a task thinking it served Reason A, but another expected Reason B, they’ll clash when results come. The Founders’ User Guide actually warns about this: “when a team is in fundamental disagreement about why they’re doing what they’re doing, this could lead to major conflicts down the road” . So this bug perfectly illustrates that point from the User Guide. It’s a teachable moment to say: Always align on the ‘why’ before diving into the ‘what’. Early-stage teams should take time to explicitly discuss and document their mission, values, and success metrics – otherwise you get a flurry of activity with no cohesive direction, and potential ethical/value conflicts (as seen in the next bug).
+
+Results at All Cost: Here the misalignment is on values and principles. One or more founders prioritize outcomes so heavily that they’ll violate ethical norms or the agreed culture to achieve them. If another founder has strong ethical standards, this is a serious vision/value misalignment. The FoundersLab deck and User Guide encourage founders to align not just on business goals, but also on how they want to achieve them (e.g., what kind of company culture or ethical lines they won’t cross). This bug shows a team that didn’t have that values conversation. It interferes with alignment because some team members might feel “this is not what I signed up for.” For example, if a founder secretly starts engaging in shady growth hacks to hit numbers, and another founder finds out and feels it betrays their mission of helping users, the team could implode. As a teaching example, “results at all cost” is a red flag – it’s the kind of thing FoundersLab would caution teams against by urging them to explicitly agree on core values and boundaries early. Aligning on the “Head” versus “Heart” motivations can surface these differences: is the team purely financially driven (Wallet) or also mission-driven (Heart)? Misalignment there can later manifest as one founder pushing unethical behavior in pursuit of profit while another recoils. Thus, this bug dramatically highlights why vision alignment includes aligning on values.
+
+In essence, the Vision & Alignment theme encompasses having a common mission, shared priorities, and mutual understanding of why the venture exists. The bugs above are case studies in lack of alignment – silos, conflicting agendas, unfocused execution, and values clashes. FoundersLab’s content (like the Master Deck’s section on team purpose or the User Guide’s motivation alignment questions) provides the antidote: deliberate, upfront alignment work. By examining these bugs, founders can see the real consequences of skipping that work. It reinforces lessons such as: develop a joint mission statement, decide on top 3 priorities together, revisit the “why” regularly, and ensure everyone’s definition of success is compatible. When vision is truly shared, a team avoids these pitfalls and can move forward as one unit .
+Ownership and Accountability
+High-performing founding teams establish clear ownership of tasks and uphold each other’s accountability. The Founders’ User Guide emphasizes making expectations explicit: “delivering on the expectations that others have of you creates trust… unmet expectations erode trust”. It also introduces Interpersonal Equity, the perceived fairness of each member’s contributions and rewards. The following bugs represent failures in accountability and ownership, undermining fairness and execution:
+Invisible Owner: After decisions are made, no one takes charge of execution. This is a direct breach of the accountability principle. In FoundersLab terms, it shows what happens when role clarity is missing. The Google re:Work study (referenced in the Master Deck) found Dependability and Structure & Clarity as key traits of effective teams. This bug has neither – team members are not dependable (actions fall through) because responsibilities are ambiguous. As a teaching moment, this scenario would prompt discussion on assigning “DRIs” (Directly Responsible Individuals) or using tools like task trackers to ensure every important item has an owner. The User Guide’s focus on expectations comes into play: had the team explicitly stated “I will do X by Y date,” they’d avoid this bug. It’s a vivid reminder that unassigned work is generally undone work. FoundersLab might use it to encourage founders to always clarify ownership in meetings and follow-ups .
+
+Priority Clutter: Too many projects are taken on, and nothing gets finished. This bug reflects a lack of accountability in saying no and focusing. In an accountability context, it means the team isn’t holding itself responsible for delivering specific key results; instead, they keep adding more (and then failing to deliver most). It also touches fairness – perhaps everyone keeps piling tasks on the roadmap to not disappoint each other or stakeholders, but then collectively they fail. FoundersLab’s guidance on accountability would stress the importance of commitment and follow-through. This bug is a great exhibit for that: the team committed to everything and thus effectively committed to nothing. In a workshop, one might ask: How could this team have avoided priority clutter? Likely answers: by implementing a system to evaluate and say no to lower-priority requests, by assigning clear owners to fewer priorities (so they feel responsible to complete them), and by creating a culture where it’s acceptable to finish a few things well rather than start 10 things. It reinforces why startups need discipline despite the temptation to chase every idea.
+
+Crippling Empathy: A founder continually excuses a teammate’s lackluster performance out of excessive empathy. While empathy is a virtue, here it cripples accountability – the underperformer is never called to improve. In terms of Interpersonal Equity, this is unfair to others who pull their weight. FoundersLab might frame this as a lesson in tough love among cofounders. The User Guide’s Interpersonal Equity section asks how satisfied each founder is with contributions and what can make it feel fair. If one founder is always given a pass, others will eventually feel resentment (the equity imbalance). This bug illustrates the tricky balance between understanding personal situations and upholding standards. In a teaching context, it could be used to show that not holding someone accountable (out of kindness) can actually harm them and the team – they don’t get feedback to grow, and the team suffers sustained performance issues. FoundersLab might recommend establishing agreed performance expectations and timelines, even among friends, so that feedback feels less personal and more about the role. The key takeaway: accountability should be consistent, even if it’s uncomfortable – otherwise you get silent frustration and eventually conflict or failure.
+
+Busy = Effective: Everyone is working hard (or at least appearing to) but not necessarily working smart. This cultural bug ties to accountability because it shifts the focus from results to activity. Team members might feel that as long as they are super busy, they’re fulfilling their duty – thus no one is accountable for actual outcomes. In FoundersLab’s “Ownership” framework, this is a misplaced sense of ownership: people own hours spent rather than impact made. It interferes with fairness and trust too – someone juggling 10 tasks could claim they’re contributing a lot, even if nothing tangible is achieved, potentially frustrating those who prioritize outcomes. As a teaching example, “busy = effective” warns founders against conflating effort with accountability. The FoundersLab Master Deck likely encourages setting clear metrics of success (what does done look like? what outcomes are expected?) rather than glorifying long work hours. This bug could spark discussion on burnout and sustainable productivity: if a startup lionizes busyness, employees may hide inefficiencies behind overtime and fail to streamline or prioritize. To integrate this with FoundersLab content, one could reference that trust in a team is built by meeting commitments, not by simply looking busy. Everyone can be swamped, yet if key goals slip, trust erodes. So accountability means focusing on the right things and delivering, not just being in perpetual motion.
+
+In the FoundersLab context, Ownership & Accountability are about making sure every critical function has an owner and every founder is answerable for their promises to the team. The bugs above demonstrate the fallout when that’s missing: tasks fall through (invisible owner), goals aren’t met (clutter), standards aren’t upheld (empathy), and real progress is obscured by busyness. FoundersLab’s Founders’ User Guide addresses this by having teams spell out expectations of each other and what each is accountable for. For example, Section 3.1 has founders list what they expect of themselves and each other , which, if done, might have prevented some of these issues. If one founder expected another to lead feature X to completion, and that was explicitly agreed, “priority clutter” would be easier to manage (anything beyond X can be questioned). Likewise, explicit equity discussions (Section 3.2) would surface if someone is not contributing enough, countering “crippling empathy” with reality checks. Thus, these bugs serve as stark reminders of why clear expectations, defined roles, and mutual accountability are essential to a founding team’s health.
+Decision-Making
+How a founding team makes decisions – fast or slow, unilaterally or by consensus, proactive or reactive – deeply affects execution. The FoundersLab curriculum often emphasizes creating decision-making processes that balance speed with input. For instance, teams might learn about avoiding consensus paralysis or the importance of defining decision domains (who decides what). The bugs in this theme highlight dysfunctional decision-making patterns, showing founders what to guard against:
+Agreement Trap (Consensus Paralysis): The team believes no decision should move forward until everyone agrees. This is an extreme consensus-driven approach that stalls decision-making. In a startup, this is dangerous – it delays action and can squander opportunities. FoundersLab would likely teach that while team buy-in is valuable, insisting on unanimity is impractical. This bug illustrates that point vividly: nothing gets done because one or two people keep vetoing or because the group keeps debating endlessly to appease all. A good FoundersLab lesson here is the concept of disagree-and-commit (popularized by Amazon) or simply assigning a “decider” for each decision. The Founders’ User Guide might not explicitly say “don’t require consensus,” but it does stress making expectations clear – which could include how decisions are made. The bug warns that lacking a decision protocol leads to gridlock. As a teaching moment, one could simulate how a critical decision (say pivoting product strategy) might never happen if everyone must fully agree, and contrast that with a more effective approach (one founder empowered to decide after discussion). The key integration is that startups need a bias toward action – agreement trap is the antithesis of that, and thus a pitfall to avoid.
+
+Concealed Consensus: The team confuses having a discussion with actually reaching a decision. Everyone gave input, so they assume consensus, but in truth, no clear decision was made or recorded. This bug is about poor decision hygiene – no explicit closure. In the FoundersLab Master Deck, when talking about decision-making, this example would highlight the need for clarity: Who is concluding this meeting with a decision or next steps? It’s also a subtle communication issue: people may leave the discussion with different interpretations of what was agreed. FoundersLab could use this to teach the practice of summarizing decisions at meeting end or sending a recap (to confirm consensus). It interferes with execution because the team might disperse thinking they’re aligned, only to discover later that each had a different takeaway. Essentially, the absence of a formal decision-making step is itself a decision flaw. Founders can learn that participation ≠ decision – you still need someone to say “Alright, based on our talk, we’ll do X.” This bug underscores the importance of decision clarity, linking to the earlier point from re:Work that Structure & Clarity includes clear plans. A plan can’t be clear if consensus is assumed but not confirmed.
+
+Perfectionism (Slow/No Decisions): Because the team wants the “perfect” choice or solution, they delay making decisions or avoid them entirely. This bug affects decision-making by introducing analysis paralysis. In a FoundersLab session, this could be tied to lean startup principles – e.g., it’s better to decide and iterate than to overanalyze in search of perfection. Perfectionism in decisions often means the team sets unrealistically high criteria for moving forward (“we need complete information or a fail-proof plan”). FoundersLab content might reference the need for agility and accepting some uncertainty. The bug shows how striving for perfect information or consensus leads to missed windows and inertia. Integrating this into the framework: Founders should recognize when 80% certainty is enough to act. The User Guide’s “Partnersh*t scenarios” (Section 3.3) even asks founders to imagine why they might fail in 12 months due to interpersonal issues – perhaps one reason listed is “we waited too long to make decisions.” This bug is a textbook interpersonal reason: collective perfectionism can be that reason. It teaches that imperfect action beats perfect inaction in startups.
+
+Criticize Everything (Over-Analysis): The team over-criticizes ideas, raising endless “what if” scenarios, and thus fails to choose any path. This bug is decision paralysis through negativity (as discussed earlier in biases). In a decision-making context, it means every proposal is nixed, so the default decision is to do nothing new. FoundersLab might incorporate this into a lesson on constructive vs. destructive debate. It’s healthy to poke holes in ideas, but here it’s excessive and not balanced by problem-solving. The FoundersLab Master Deck might encourage a “yes, and” mindset or at least a fair evaluation of pros and cons, rather than automatically playing devil’s advocate to the point of stalemate. This bug interferes with momentum – the team probably fails to pivot or innovate because any suggestion gets drowned in hypothetical objections. It’s a caution to founders that being too critical is as bad as being not critical at all for decisions. The idea of “disagree and commit” could be relevant: once an idea is reasonably vetted, commit rather than continuing to shoot it down. So as a teaching moment: after a round of critiques, someone needs to decide, or else the startup stands still. Criticize Everything warns of the trap of endless debate with no decision.
+
+Crisis Jumping (Reactive Decisions): The team only makes big decisions when forced by a crisis, otherwise they coast. This bug describes a reactive decision-making culture rather than a proactive one. FoundersLab likely urges teams to be proactive – for instance, to regularly review strategy and metrics, not just when something’s on fire. Crisis jumping interferes with good decision-making because decisions made under duress (in a panic when “something blows up”) may not be the best thought-out; plus, opportunities for strategic shifts in calm times are missed. In the Founders’ User Guide Section 3.3 (“Partnersh*t scenarios”), founders are asked to imagine failure reasons and “what can we do to minimize this risk?” – essentially encouraging pre-mortem thinking and proactive risk mitigation. Crisis Jumping is the opposite: doing nothing about a risk until it actualizes. In a workshop, one might point out how this behavior ties to the earlier “ignore it will self-correct” bug (which is basically waiting for crisis). The key teaching: Don’t wait for a meltdown to make a needed decision. Great founding teams have regular check-ins and make incremental decisions to steer away from crisis. By highlighting this bug, founders see that always living in firefighting mode is a choice – one that reflects poor planning and decision discipline.
+
+In summary, these bugs disrupt the Decision-Making prowess of a founding team. They show scenarios of too slow, too indecisive, or too reactive decision processes. FoundersLab content on decision-making (though not always a standalone module) is interwoven in things like structure & clarity, team norms, and leadership. For example, the Master Deck’s focus on clarity likely implies having clear decision owners or methods. The bugs above can be used to drive home several best practices:
+Decide how to decide: Avoid the agreement trap by agreeing upfront whether decisions will be majority vote, consensus, or leader-decided after discussion. That way, not every decision defaults to needing unanimity.
+
+Be explicit when a decision is made: To counter concealed consensus, always state the outcome. Write it down – “We have decided to do X.”
+
+Empower timely decisions: Address perfectionism and over-critique by setting deadlines or criteria for decisions. Encourage a minimum viable decision approach – make the call when you have “good enough” info, using lean experiments to validate if needed.
+
+Plan, don’t just react: Counter crisis-jumping by holding regular strategy sessions or pre-mortems (as the User Guide suggests ) to surface issues before they explode.
+
+Using these bugs as case studies, a FoundersLab facilitator could simulate dysfunctional decision meetings and then compare with a healthier approach. The founders would likely appreciate the importance of having a decision-making framework after seeing how easily chaos or paralysis can otherwise ensue.
+Team Dynamics and Trust
+Trust is the bedrock of a cofounding team’s dynamics. Google’s research (Project Aristotle) famously found Psychological Safety – a climate where team members feel safe to take risks and be vulnerable – to be the number one factor in team effectiveness . FoundersLab Master Deck echoes this, defining psychological safety and its impact on performance (teams with high trust significantly outperform in revenue targets, for example) . Additionally, Interpersonal trust and fairness are crucial in the Founders’ User Guide, which notes that unfairness or imbalance in contributions can cause tension leading to cofounder breakups. The following bugs all point to problems in team dynamics and trust:
+Fundamental Attribution Error: When founders habitually misattribute each other’s mistakes to personal flaws, it erodes trust. If Alice assumes Bob missed a deadline because he’s “lazy” (instead of, say, overworked), she’ll begin to lose respect for Bob. Bob, meanwhile, may resent Alice for not understanding his situation. This dynamic is toxic – team members no longer give each other the benefit of the doubt. FoundersLab would likely highlight the importance of assuming positive intent and communicating before jumping to conclusions. This bug shows how misunderstanding and bias can corrode trust. By addressing it, teams learn to check their perceptions (“Let me ask Bob what happened” rather than assume character failure). In terms of team dynamics, correcting FAE fosters empathy and trust – everyone believes their peers are competent and well-intentioned unless proven otherwise. The User Guide’s emphasis on sharing personal working styles and preferences (Section 2.2) can help here; if Bob had told Alice “I’m juggling multiple roles, if I drop a ball it’s not lack of effort,” maybe she’d attribute differently. So, the teaching point is that trusting teams interpret actions charitably, whereas low-trust teams default to blame.
+
+My Team vs. Your Team: This was discussed under alignment, but it’s very much a trust issue too – factions indicate people don’t trust those outside their “circle.” When the technical and business sides of a startup treat each other as opponents, trust is obviously low. The Master Deck’s content on Psychological Safety implies an environment where no one fears being undermined by a colleague . “My team vs. your team” is the opposite: each subgroup fears the other will undercut their interests, so they preemptively compete. It also violates the idea of interpersonal equity and fairness – teams might feel the other side is hogging resources unfairly. In FoundersLab sessions, this bug is a clear example of a trust breakdown. It can be used to discuss how to build one unified team identity (perhaps referencing exercises to improve cross-functional understanding). The LinkedIn snippet we saw about breaking silo mentality noted it “helps create trust between teams” . Indeed, breaking silos is crucial for trust. Founders can reflect on whether they are inadvertently creating internal rivalries and how that might be addressed by, say, rotating responsibilities or establishing shared goals that force collaboration. Essentially, this bug shows that trust must extend across the entire founding team, not just within mini-teams. If not, the startup can splinter.
+
+Lone Hero: When one person is routinely glorified for successes, it undermines the team ethos and trust. Other founders might feel, “Do they not value my contributions?” This dynamic can create silent resentment and reduce trust in leadership. If, say, the CEO always takes the spotlight, the CTO and COO may start to disengage or mistrust the CEO’s motives. The FoundersLab Master Deck likely touches on recognition and team culture – ensuring credit is shared to maintain morale. A high-trust team celebrates as a unit (e.g., “we succeeded because each of us played a part”), whereas a low-trust team might suspect internal competition for credit. The Lone Hero bug is a lesson in team dynamics of recognition. Using it in a FoundersLab context, one can stress that “we win as a team” mindset is important. Leaders should consciously highlight others’ work, which fosters trust and loyalty. If not, as the bug implies, you get a culture of egos rather than trust. It connects with interpersonal equity too – if one founder gets all praise and likely more reward, others feel inequity, harming trust. So, the teaching moment is: check how you attribute success internally. Consistently attributing it to one “hero” is a red flag for team trust.
+
+Panic Bubble: In a crisis, the team’s negative emotions spiral and “we burn each other out… unnecessary intensity” results. This bug illustrates a team dynamic under stress – if trust and communication are strong, teams typically pull together in crises calmly. But here, panic leads to finger-pointing, overwork, and presumably mutual frustration. It suggests that the team doesn’t have trust in each other’s ability to handle the issue, hence the overdrive and possibly micromanaging or over-checking. It could also hint at lack of trust in leadership: everyone panics because no clear, trusted direction is given. FoundersLab Master Deck’s emphasis on psychological safety means even in a crisis, members feel safe to admit concerns or mistakes without being attacked . Panic Bubble likely involves people hiding errors or overreacting out of fear. In a training, this bug can be used to discuss resilience and trust – how teams with high trust behave in crises versus low-trust teams. High trust teams might say, “Okay, something blew up – let’s solve it together” without blame, maintaining respect for work-life boundaries if possible. Low trust teams, like this bug, devolve into chaos and burnout, possibly blaming each other. It’s a stark example that trust is most needed under pressure. If you haven’t built it in good times, bad times will be much worse (something FoundersLab might warn founders about in preparing for tough scenarios).
+
+Simple Stories / Single-Cause Fallacy: While already covered in biases, in terms of team dynamics, this bug shows a lack of trust in understanding each other. Founders make snap judgments about each other’s actions without suspending judgment or seeking explanation. That behavior indicates they don’t trust what the other person says or don’t bother to ask – they assume the worst or the simplest reason. In a healthy team dynamic, if one cofounder does something odd, the others ask rather than assume. This bug impairs trust by building possibly false narratives about each other. For instance, “Alice didn’t join the sales call because she doesn’t care about our biggest client” – that story, if untrue, still can spread mistrust. FoundersLab could incorporate this into the importance of communication and giving benefit of doubt. It’s somewhat similar to FAE, but more about oversimplifying motives. The exercise could be: when someone’s behavior confuses you, do you concoct a theory or do you inquire? The User Guide’s Working Style section (2.2) has prompts like “I can sometimes be misunderstood when…” – if founders fill that out, they literally pre-empt these simple wrong stories by explaining their quirks. For example, Alice might write “I can be misunderstood when I’m quiet in a meeting – it usually means I’m processing, not that I’m disengaged.” That prevents Bob from later telling a “simple story” that Alice doesn’t care. Thus, this bug reinforces the FoundersLab push for explicit communication of personal working styles to prevent mistrustful narratives.
+
+Crippling Empathy: From a team dynamics perspective, this bug affects trust in a different way: others may lose trust in the leader’s fairness if one person is always let off the hook. While empathy is good for trust, consistently excusing one person can cause a rift – some team members might trust that person (and the excuser) less, feeling there’s favoritism. It’s an imbalance in accountability that can quietly anger others (as noted under accountability theme). In terms of FoundersLab’s trust and partnership theme, maintaining perceived fairness is key. The User Guide explicitly has founders rate how fair the partnership feels. If someone is overly protected from consequences, that fairness rating will drop for others, undercutting overall trust. So although “empathy” sounds positive, this bug is a reminder that consistent standards and honest feedback are necessary to keep trust across the whole team. FoundersLab might use it to illustrate that transparency is part of trust – if one founder is underperforming, hiding it (out of empathy) eventually backfires. Better to surface issues constructively so all know everyone is held to the same bar (which reinforces trust in the system).
+
+Halo/Horns (Brilliant by Category) can also be considered here in team dynamics: if some people are judged mainly by pedigree not performance, it creates an unjust dynamic. Those without fancy resumes might feel they’ll never be trusted or respected equally (trust is also about feeling valued). FoundersLab might caution against internal biases for the sake of team cohesion, though we covered this under bias.
+
+Bringing it together, the Team Dynamics & Trust theme in FoundersLab would leverage these examples to hammer home: Trust isn’t just a feel-good idea; it directly impacts performance and retention. The Master Deck likely includes content on how psychological safety leads to better ideas and less turnover (Google’s research saw that teams with high trust outperformed on targets by a significant margin ). Each bug shows a symptom of low trust or poor dynamics:
+Lack of safety to speak (false positive, backchanneling) – already in conflict theme but central to trust.
+
+Lack of fairness (my vs your, crippling empathy) – breaks trust in equity.
+
+Lack of mutual understanding (FAE, simple stories) – breaks trust in intentions.
+
+Lack of shared credit (lone hero) – breaks trust in recognition.
+
+Overreaction under stress (panic bubble) – indicates low baseline trust and poor coping as a team.
+
+FoundersLab’s Founders’ User Guide is actually a tool to build trust. By sharing personal motivations, work styles, and discussing equity and conflict, founders increase understanding and fairness, which are trust-builders . These bugs, when shown to founders, underscore why each section of the User Guide exists. For example, one could point to “Pattern spotting error” and say: This is why we do the Working Style section – so you don’t misinterpret one incident as a permanent trait. Or use “My team vs your team” to justify the need for regular whole-team syncs and transparency so silos don’t form.
+Ultimately, the goal is for founders to see that trust and healthy dynamics are as vital to success as product-market fit. High trust teams communicate openly, align on vision, hold each other accountable, and make decisions effectively – all the things the previous themes champion. So, addressing team bugs via these frameworks helps create a roadmap for founders: implement FoundersLab principles to cultivate trust and you’ll avoid or resolve these bugs. As one slide in the FoundersLab intro says, “Founders’ User Guides are a quick and easy way to reduce friction and improve trust within the founding team” – less friction and more trust mean a team capable of weathering storms and executing brilliantly together.
+In conclusion, applying these two frameworks – cognitive biases and FoundersLab themes – provides a structured way to understand and fix the common cofounder “bugs.” For each bug, recognizing the underlying bias (e.g. confirmation bias leading to “criticize everything”) helps founders be self-aware and correct their thinking . Then, contextualizing the bug in a FoundersLab theme (e.g. how “criticize everything” stalls Decision-Making and violates the bias toward action a startup needs) turns it into a teachable moment. The emphasis on founder psychology and team dynamics throughout shows that startups succeed not just by building great products, but by building great founding teams. And great teams intentionally work on trust, alignment, communication, and decision habits – the very areas these 25 bugs so vividly highlight as failure modes. By studying these, early-stage founders and VCs can anticipate problems and proactively foster a culture that prevents them, using the best practices from Google’s FoundersLab and beyond.
+Sources:
+Google Launchpad FoundersLab content and “25 Common Bugs” list.
+
+Re:Work with Google’s research on high-performing teams (Psychological Safety, Dependability, etc.) .
+
+Founders’ User Guide (Google) – sections on Expectations, Interpersonal Equity, and Conflict Management .
+
+Cognitive bias definitions and implications for startups (e.g., confirmation bias, status quo bias, diffusion of responsibility) .
+
+Pollack Peacebuilding – biases fueling conflict (illustrating confirmation bias in disagreements) .
+
+Leadership psychology insights on self-serving bias and trust erosion .
+
+
+========== SOURCE: Founder_s User Guide.pdf ==========
+
+Founder’s User Guide
+
+
+
+Developed by Martin Gonzalez (martingonzalez@google.com), creator of Google Launchpad LeadersLab for Startup Founders
+   Why a Founders’ User Guide?
+
+                                                   TL;DR: Founders’ User Guides are a quick and easy way to reduce
+                                                   friction and improve trust within the founding team. May be used by a
+                                                   leadership team of founders and functional heads.
+
+
+
+                                                   Humans are hard work. We are complex, and sometimes we need a
+                                                   little help knowing how to get the best out of others -- and how others
+                                                   can get the best out of us. This is why we have Founders’ User
+                                                   Guides: short explanations of our personal reasons for being here,
+                                                   how we prefer to work and communicate, our expectations of
+                                                   ourselves and others, and how we manage conﬂict.
+
+                                                   There are three sections to this User Guide
+
+
+
+
+                                                                                        Section 1: Personal Motivations
+
+
+
+
+                                                                                        Section 2: Working Style
+
+
+
+             “High-
+         functioning
+     teams are gold                                                                     Section 3: Our Partnership
+    and the true key
+        to success.”
+               Brian W. Fitzpatrick,
+              Author of Team Geek
+       and former Google executive
+
+
+
+    References used in building out the Founder’s User Guide:
+               Internal Google practices
+               Gage, D. (2004). The partnership charter: how to start out right with your new business partnership (or ﬁx the one youre in). New York: Basic Books.
+               Soffer, P. et al (2012). Partnership or partnersh*t: you decide. Aventura, FL: A Human Foundation Publishing, LLC.
+               Consultations with executive coaches and organizational consultants that specialize in startups
+
+
+                                                                                                                                                                      1
+Developed by Martin Gonzalez (martingonzalez@google.com), creator of Google Launchpad LeadersLab for Startup Founders
+   Section 1 | Personal Motivations
+
+              Your personal                        Three sources of personal motivation:
+        motivations impact
+         the kind of energy                           ●        Head -- the intellectual pursuit to solve a market challenge or
+        you bring into your                                    user need with fresh technology, a service, a business model,
+        company, how you                                       a localized value chain. Demotivation arises when the problem
+       make decisions, and                                     becomes unsolvable or no longer challenging.
+                 the level of                         ●        Heart -- deep passion/commitment to target users, the sector
+           commitment (or                                      of society, the speciﬁc industry, the nation. Challenges are met
+            frustration) you                                   with even more drive to overcome. Demotivation arises when
+              create in your                                   the problem becomes irrelevant or the solution incremental.
+                    startup.                          ●        Wallet -- ﬁnancial and non-ﬁnancial (status, title, access to
+                                                               important people) payout of the business. Decisions strike the
+                                                               balance of maintaining equity stake and raising enough funds,
+                                                               while also bootstrapping to get the business to grow
+                                                               sustainably. Demotivation arises when exit plans look unlikely.
+
+
+
+                                                   Use this section to:
+
+                                                      ●        Reﬂect on your own reasons for coming into this startup --
+                                                               what are you here to gain? Are you primarily motivated by the
+                                                               Head, Heart or Wallet? Being clear about this will allow you to
+                                                               more easily make tradeoffs along the way.
+                                                      ●        Openly share with your co-founders -- it is important to be
+                                                               explicit about your motivations, as it reduces second guessing
+                                                               each other's’ intentions.
+                                                      ●        Get to some alignment -- when a team is in fundamental
+                                                               disagreement about why they’re doing what they’re doing, this
+                                                               could lead to major conﬂicts down the road.
+
+
+
+
+                                                                                                                              2
+Developed by Martin Gonzalez (martingonzalez@google.com), creator of Google Launchpad LeadersLab for Startup Founders
+ Section 1 | Personal Motivations
+
+  Motivation               What motivates me about my                    Importance               Why have you ranked it this
+  source                   startup?                                      rank                     way?
+                                                                         (1 = most important, 3
+                                                                         = least important)
+
+
+
+  Head
+  The intellectual
+  pursuit
+
+
+
+  Heart
+  Deep passion for the
+  work/impact
+
+
+
+  Wallet
+  Rewards
+
+
+
+
+                                           ↓ For capturing notes during User Guide discussion ↓
+
+  Co-founder               What are the primary motivations of my                                 Notes
+                           co-founders?
+                           (1 = most important, 3 = least important)
+
+
+
+                           Head                            Heart       Wallet
+
+  Me
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  Where do we as co-founders differ the most? What conﬂicts do we expect to have as a result
+  of this?
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                                  3
+Areas in light grey | Work on during the User Guide discussion
+   Section 2 | Working Style
+
+         Each person has a                         In this section, you’ll be clarifying:
+     unique way of getting
+       stuff done. To work                            ●        Your strengths and weaknesses -- you will verify if this is also
+        well with someone                                      how your co-founders view you. When speaking about your
+      else, it’s critical to be                                weaknesses, you can clarify (1) what help you’ll need to
+        explicit about what                                    improve in those areas and (2) in what areas you need your
+     your preferences are,                                     team to step in and complement you.
+                    and more                          ●        How to get the best out of you and how you can sometimes
+      importantly, why you                                     be misunderstood -- consider this as advice you are giving
+          prefer it that way.                                  those in your team on how to best work with you.
+                                                      ●        How you prefer to receive feedback and resolve conﬂict --
+              Highly effective                                 your ability to receive/give feedback and resolve conﬂict will
+           teams understand                                    ensure you’re constantly learning and bouncing back from
+           each other's’ style,                                mistakes. Your goal is not to eliminate any need for feedback
+            and are ﬂexible in                                 or conﬂict. Your goal is to learn how to deal with feedback and
+           working with each                                   conﬂict well.
+           one’s preferences.
+
+
+
+
+                                                                                                                              4
+Developed by Martin Gonzalez (martingonzalez@google.com), creator of Google Launchpad LeadersLab for Startup Founders
+ Section 2.1 | Strengths and Weaknesses
+
+                      What strengths do I bring into the                  What gaps do I need help with? What
+                      team?                                               help do I need?
+
+  My list
+
+
+
+
+  Additional
+  inputs
+  from my
+  team
+
+
+                                       ↓ For capturing notes during User Guide discussion ↓
+                                    What help have they asked for?
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                  5
+Areas in light grey | Work on during the User Guide discussion
+ Section 2.2 | Work Preferences
+
+  You can get the best out of me by…                              I can sometimes be misunderstood when...
+  You can get the worst out of me by...
+
+
+
+
+                                       ↓ For capturing notes during User Guide discussion ↓
+                           You can get the best out of me by…               I can sometimes be misunderstood
+                           You can get the worst out of me by...            when...
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                 6
+Areas in light grey | Work on during the User Guide discussion
+ Section 2.3 | Feedback and Conﬂict
+
+  The best way to give me feedback is to...                       When we get into conﬂict*, the best way to
+                                                                  resolve it with me is to…
+                                                                  *an argument about the business or personal relationships
+
+
+
+
+                                       ↓ For capturing notes during User Guide discussion ↓
+
+                           The best way to give me feedback is                When we get into conﬂict, the best
+                           to...                                              way to resolve it with me is to...
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                                7
+Areas in light grey | Work on during the User Guide discussion
+   Section 3 | Our Partnership
+
+
+     Unclear expectations                          In this section, you’ll be clarifying:
+         of each other and
+    feelings of unfairness                            ●        Expectations -- delivering on the expectations that others have
+     are two of the largest                                    of you creates trust in relationships. Unmet expectations
+     sources of conﬂict in                                     erode trust and can be a big source of conﬂict. A founding
+          a founding team.                                     team can minimize this conﬂict potential by making sure that
+                                                               expectations are explicit and clear.
+        Spend this section                            ●        Interpersonal equity -- just as much as a business has
+        clarifying with your                                   ﬁnancial equity, relationships have interpersonal equity --
+             team what you                                     fairness in the give and take of the members of the team.
+      expect from yourself                                     Interpersonal equity is each co-founder’s perception of the
+      and what you expect                                      balance of what he/she is giving and taking from the business,
+           from each other.                                    and what others are giving and taking. What you ‘give’ could
+      Check in on how fair                                     include how hard you work, capital investments, business
+                you feel this                                  leads, expertise, etc. What you ‘take’ would include a salary,
+          arrangement has                                      ownership, social status, work ﬂexibility, control, etc.. When
+      been to-date, and do                                     the balance is off, it creates tension and may culminate in
+             some planning                                     partners walking away from the work.
+        around worst case                             ●        Partnersh*t scenarios -- spend some time considering other
+                  scenarios.                                   potential sources of tension in your founding team. We’ll do
+                                                               this by looking into a hypothetical scenario: Let’s suppose our
+                                                               startup hypothetically fails in 12 months’ time because of
+                                                               interpersonal challenges in our founding team (not because
+                                                               we ran out of money or didn’t ﬁnd product-market ﬁt). What
+                                                               could be possible reasons for it? Responses to this question
+                                                               will help you pre-empt some of these future risks.
+
+
+
+
+                                                                                                                            8
+Developed by Martin Gonzalez (martingonzalez@google.com), creator of Google Launchpad LeadersLab for Startup Founders
+ Section 3.1 | Expectations
+
+
+  What expectations do I have of myself in my                     What expectations do I think others have of
+  role? What contributions am I making or plan                    me?
+  to make for this startup to succeed?
+
+
+
+
+                               What expectations do I have of my co-founders/leaders in my company?
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+                                       ↓ For capturing notes during User Guide discussion ↓
+
+  What additional expectations do others have of me?
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                  9
+Areas in light grey | Work on during the User Guide discussion
+ Section 3.2 | Interpersonal Equity
+
+
+                                                       Interpersonal Equity Assessment
+
+  How satisﬁed are you with what you
+  contribute as compared to what your
+  co-founders contribute?                             Not satisﬁed                            Very satisﬁed
+
+
+  How satisﬁed are you with what you
+  receive as compared to what your
+  co-founders receive?                                Not satisﬁed                            Very satisﬁed
+
+
+  How fair do you feel your arrangement is
+  overall?                                            Not satisﬁed                            Very satisﬁed
+
+
+
+  What can you and your co-founders do to make this a 10 rating on all points?
+
+
+
+
+                                       ↓ For capturing notes during User Guide discussion ↓
+
+  What will we do as a team to ensure everyone is satisﬁed in the fairness of our partnership?
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                         10
+Areas in light grey | Work on during the User Guide discussion
+ Section 3.3 | Partnersh*t Scenarios
+
+
+  Let’s suppose our startup hypothetically fails                  What can we do to minimize this risk?
+  in 12 months’ time because of interpersonal
+  challenges in our founding team. What could
+  be 3 of the most likely reasons for it?
+
+
+
+
+                                       ↓ For capturing notes during User Guide discussion ↓
+
+                                      Capture new insights from others in your team
+
+  Let’s suppose our startup hypothetically fails                  What can we do to minimize that risk?
+  in 12 months’ time because of interpersonal
+  challenges in our founding team, what could
+  be 3 most likely reasons for it?
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                            11
+Areas in light grey | Work on during the User Guide discussion
+                                                                                                                        Founders’ User Guide
+                                                                                                                         Example for illustration
+                                                                                                                             purposes only
+
+Developed by Martin Gonzalez (martingonzalez@google.com), creator of Google Launchpad LeadersLab for Startup Founders
+     Example for illustration
+         purposes only
+
+
+
+ Section 1 | Personal Motivations
+
+  Motivation               What motivates me about my                          Importance               Why have you ranked it this
+  source                   startup?                                            rank                     way?
+                                                                               (1 = most important, 3
+                                                                               = least important)
+
+
+                           Chance to build a ﬁrst of its kind approach to
+  Head                     education. Using tech and AI for
+                           hyper-customized learning                                     2
+                           Monetize on our aggregator service -- hasn’t
+                           been ﬁgured out in developing countries                                      I have more to create beyond this startup.
+                                                                                                        It will help fund my next venture
+                           To build a startup to move money and
+  Heart                    economic control away from traditional                                       The technology we’re building is great and
+                           conglomerates                                                 3              something a big tech company would be
+                           A chance to make the end-of-life experience                                  interested in buying
+                           more comfortable for millions
+                                                                                                        I don’t care so much about solving for this
+                           An exit plan around getting acquired by a                                    market
+  Wallet                   regional player with deep pockets. Then I move
+                           to my next startup                                            1
+                           No desires to sell. I’ll make enough as a leader
+                           in this startup
+
+
+                                           ↓ For capturing notes during User Guide discussion ↓
+
+  Co-founder               What are the primary motivations of my                                       Notes
+                           co-founders?
+                           (1 = most important, 3 = least important)
+
+
+
+                           Head                            Heart              Wallet
+
+  Me
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  Where do we as co-founders differ the most? What conﬂicts do we expect to have as a result
+  of this?
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                                                    13
+Areas in light grey | Work on during the User Guide discussion
+    Example for illustration
+        purposes only
+
+
+
+ Section 2.1 | Strengths and Weaknesses
+
+                      What strengths do I bring into the                  What capability gaps do I need help
+                      team?                                               with? What help do I need?
+
+  My list              Able to win people over easily                     Tend to get caught up in the details -- push me/remind
+                                                                          me to step back and keep the bigger picture in mind
+                       Upbeat and optimistic
+                                                                          Gets distracted with new challenges and sometimes
+                       Creative and pushes the thinking towards fresh     doesn’t ﬁnish what I start -- need to partner more with a
+                       approaches                                         strong project manager to take the idea into
+                                                                          implementation
+                       Action-oriented and willing to try out new ideas
+                                                                          Not so great rapport with employees. Please give me
+                       High bar for excellence                            feedback if someone feels dismissed
+
+
+
+
+  Additional
+  inputs
+  from my
+  team
+
+
+                                       ↓ For capturing notes during User Guide discussion ↓
+                                    What help have they asked for?
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                                        14
+Areas in light grey | Work on during the User Guide discussion
+    Example for illustration
+        purposes only
+
+
+
+ Section 2.2 | Work Preferences
+
+  You can get the best out of me by…                                        I can sometimes be misunderstood when...
+  You can get the worst out of me by...
+
+  I get to my best ideas when I think out loud. So be my                    I have a lot of energy and some might feel like everything I ask for is
+  sparing/brainstorm partner                                                urgent. I’ll do my best to clarify urgency level -- remind me as well
+
+  Be concise. I lose focus quickly and have so much I want to get           I operate on principles and when I challenge an idea, some people
+  done in a day                                                             might think I’m trying to be diﬃcult. I’m really trying to understand
+                                                                            so I can be fully onboard
+  Come to me early on when solving a problem. Come with some
+  initial ideas on how to solve it, but no need for it to be 100% baked.    I’m an introvert and tend not to speak too much in meetings. This
+  I’d prefer to brainstorm a solution together                              doesn’t mean I’m not interested. I’m usually absorbing the
+                                                                            information. Give me some time (a few hours or the next day) and
+  I struggle with negativity. Don’t just tell me what I can’t do, tell me   I’ll come back to you with something thoughtful
+  what we need to do to get it done. I want you to disagree with me
+  and temper my optimism, but know that I will struggle a bit at the
+  beginning
+
+  I prefer the simple over the complicated. I prefer no jargon. And just
+  say it as it is
+
+
+
+
+                                          ↓ For capturing notes during User Guide discussion ↓
+                            You can get the best out of me by…                           I can sometimes be misunderstood
+                            You can get the worst out of me by...                        when...
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                                                      15
+Areas in light grey | Work on during the User Guide discussion
+    Example for illustration
+        purposes only
+
+
+
+ Section 2.3 | Feedback and Conﬂict
+
+  The best way to give me feedback is by...                                When we get into conﬂict*, the best way to
+                                                                           resolve it with me is by…
+                                                                           *an argument about the business or personal relationships
+
+  I’m not a very direct person. But I try. Give me the feedback bluntly,   Speak face to face
+  but expect me to go away and think about it (and feel hurt). Know
+  that I’ll be ﬁne eventually                                              I shut down when people are rude
+
+  I prefer to recveive feedback in a respectful way. Not emotionally       Know that I’m uncomfortable with conﬂict situations but I will try to
+  charged. So might be best to wait a day or two before coming to me       engage. If you see me disengaging, I might need a minute. Or a day
+                                                                           to engage well
+  Be speciﬁc so I know how to correct my behavior
+
+
+
+
+                                         ↓ For capturing notes during User Guide discussion ↓
+
+                           The best way to give me feedback is                         When we get into conﬂict, the best
+                           by...                                                       way to resolve it with me is by...
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                                                 16
+Areas in light grey | Work on during the User Guide discussion
+    Example for illustration
+        purposes only
+
+
+
+ Section 3.1 | Expectations
+
+
+  What expectations do I have of myself in my                             What expectations do I think others have of
+  role? What contributions am I making or plan                            me?
+  to make for this startup to succeed?
+
+  Stay focused on overall growth of the company                           Be more patient
+
+  Make sure we manage our cashﬂow well so we pay employees on             Help the team focus on the highest priority/highest value projects
+  time 100% of the time. I will forfeit my salary if I need to
+
+  Make decisions in the best interest of everyone, not just for myself
+
+  Set the tone of our culture
+
+  Get better at being a CEO -- get mentored on my blind spots
+
+
+
+
+                                What expectations do I have of my co-founders/leaders in my company?
+
+  [Name]                        Continue to work fulltime on this startup
+  Alex, CTO                     Push hard to ship product within committed timelines
+                                Be professional in the work output
+                                Continue to bring in great tech expertise
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+  [Name]
+
+
+
+
+                                        ↓ For capturing notes during User Guide discussion ↓
+
+  What additional expectations do others have of me?
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                                                 17
+Areas in light grey | Work on during the User Guide discussion
+    Example for illustration
+        purposes only
+
+
+
+ Section 3.2 | Interpersonal Equity
+
+
+                                                          Interpersonal Equity Assessment
+
+  How satisﬁed are you with what you
+  contribute compared to what your
+  co-foudners contribute?                                Not satisﬁed                                             Very satisﬁed
+
+
+  How satisﬁed are you with what you
+  receive compared to what your
+  co-founders receive?                                   Not satisﬁed                                             Very satisﬁed
+
+
+
+  How fair do you feel it is overall?
+                                                         Not satisﬁed                                             Very satisﬁed
+
+
+
+  What can you and your co-founders do to make this a 10 rating on all points?
+
+  I have a terrible lifestyle. I’d feel more satisﬁed if I can have 2 nights in a week to myself
+
+  I would like to explore doing the job from another city. And limit my travel to our main oﬃce to once a month
+
+  I need help in ﬁnding business leads -- right now 80% of them come from my network
+
+
+
+
+                                          ↓ For capturing notes during User Guide discussion ↓
+
+  What will we do as a team to ensure the highest amount of fairness in our partnership?
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                             18
+Areas in light grey | Work on during the User Guide discussion
+    Example for illustration
+        purposes only
+
+
+
+ Section 3.3 | Partnersh*t Scenarios
+
+
+  Let’s suppose our startup hypothetically fails                        What can we do to minimize that risk?
+  in 12 months’ time because of interpersonal
+  challenges in our founding team, what could
+  be 3 most likely reasons for it?
+
+
+
+  CEO loses interest in the work because of his other businesses        CEO needs to start grooming the COO to take over
+
+
+
+
+  COO insists on keeping his college friends in the company even if
+                                                                        Agree to make all ﬁring decisions as a team
+  they’re not working hard enough
+
+
+
+
+  We can’t agree to on a single exit plan -- CTO doesn’t want to sell   We can’t agree to on a single exit plan -- CTO doesn’t want to sell
+
+
+
+
+                                        ↓ For capturing notes during User Guide discussion ↓
+
+                                       Capture new insights from others in your team
+
+  Let’s suppose our startup hypothetically fails                        What can we do to minimize that risk?
+  in 12 months’ time because of interpersonal
+  challenges in our founding team, what could
+  be 3 most likely reasons for it?
+
+
+
+
+Areas in light blue | Work on during individual reﬂection time                                                                                19
+Areas in light grey | Work on during the User Guide discussion
+
+
+========== SOURCE: Google Launchpad Founders’ User Guide – Content Summary and Analysis.docx ==========
+
+Google Launchpad Founders’ User Guide – Content Summary and Analysis
+Part 1: Founders’ User Guide Content and Frameworks
+Introduction – Why a Founders’ User Guide?
+Purpose: The Founders’ User Guide is a tool developed (at Google Launchpad’s LeadersLab) to help startup founding teams reduce friction and build trust . It serves as a “personal user manual” for each founder or leader, explaining their motivations, work preferences, expectations, and conflict management style. By sharing and discussing these guides, teams can better understand each other and prevent misalignment. As the guide notes, “Humans are hard work… we need a little help knowing how to get the best out of others – and how others can get the best out of us” . This document is intended for founding teams (and early leadership teams) to improve communication and avoid common causes of team conflict, ultimately enabling a “high-functioning team”, which the guide calls “gold and the true key to success” .
+Structure: The Founders’ User Guide is organized into three major sections :
+Section 1: Personal Motivations – Why each founder is here (their driving motivations).
+
+Section 2: Working Style – How each person prefers to work, including strengths, weaknesses, and feedback style.
+
+Section 3: Our Partnership – How the founders work together, covering mutual expectations, fairness, and potential conflict scenarios.
+
+The guide draws on internal Google practices and external references on business partnerships . Founders are encouraged to fill out each section for themselves and then discuss as a team, with portions designated for individual reflection (in “light blue”) and team discussion (in “light grey”) in the worksheet format.
+Section 1: Personal Motivations
+“Three sources of personal motivation:” The guide identifies three primary motivators for why someone starts a venture – the “Head,” “Heart,” and “Wallet” . These are defined as follows:
+Head – an intellectual motivation. This is the “pursuit to solve a market challenge or user need with fresh technology, a service, a business model, a localized value chain.” A founder driven by “head” is energized by problem-solving and innovation. Demotivation for them occurs if “the problem becomes unsolvable or no longer challenging.”
+
+Heart – a passion-driven motivation. This reflects “deep passion and commitment to target users, a sector of society, a specific industry, or a nation.” A “heart”-driven founder is mission-oriented and will meet challenges with extra drive. They are demotivated if “the problem becomes irrelevant or the solution [is only] incremental.”
+
+Wallet – a return-driven motivation. This includes financial goals and non-financial rewards such as status, title, or networking access. These founders focus on the venture’s payout, balancing equity stake with fundraising and growth. Demotivation sets in when “exit plans look unlikely” (e.g. if they no longer see a path to a successful exit or reward) .
+
+The guide emphasizes that none of these motivations are “good” or “bad” – they simply reflect different personal drives. However, misalignment in motivations can cause friction. Founders are asked to be transparent about their primary motivators and recognize differences. The guide explicitly instructs: “Reflect on your own reasons…what are you here to gain? Are you primarily motivated by the Head, Heart or Wallet?… Openly share with your co-founders – it is important to be explicit about your motivations, as it reduces second guessing each other’s intentions… Get to some alignment – when a team is in fundamental disagreement about why they’re doing what they’re doing, this could lead to major conflicts down the road.” .
+In practice, Section 1 includes a worksheet where each founder lists what motivates them about the startup in each of the three categories, ranks them in importance (1 = most important), and explains their ranking. For example, a founder might list an intellectual goal under “Head,” a societal impact under “Heart,” and a wealth goal under “Wallet,” then indicate which motivates them most. Founders also compare notes: the guide asks “Where do we as co-founders differ the most? What conflicts do we expect to have as a result of this [difference]?”. Additionally, each founder reflects on their co-founders’ motivations – there is a table to note each co-founder’s apparent top motivator (Head/Heart/Wallet) and any observations.
+This section’s key message is that personal motivations drive a founder’s energy, decision-making, and commitment. By understanding whether a teammate is driven by technology, mission, or financial outcomes, the team can better make collective decisions and anticipate each other’s reactions. Aligning on or at least acknowledging “why we are here” lays a foundation of trust. As the guide highlights in a side note: “Your personal motivations impact the kind of energy you bring into your company, how you make decisions, and the level of commitment (or frustration) you create in your startup.”.
+Section 2: Working Style
+Section 2 focuses on how each founder prefers to work day-to-day, encompassing their strengths/weaknesses, working preferences, and approaches to feedback and conflict. The goal is for each person to articulate these aspects and discuss them so that the team can collaborate more effectively. As the guide notes, “Each person has a unique way of getting stuff done. To work well with someone else, it’s critical to be explicit about what your preferences are, and more importantly, why you prefer it that way. Highly effective teams understand each other’s style, and are flexible in working with each one’s preferences.” . In other words, making implicit work styles explicit helps avoid misunderstandings.
+There are three sub-parts (Section 2.1 to 2.3):
+Section 2.1 – Strengths and Weaknesses: Each founder lists “What strengths do I bring into the team?” and “What gaps do I need help with? What help do I need?” . First, during individual reflection, a founder writes down their own skills and strengths, as well as areas where they are weaker or will need support. Then, during the group discussion, co-founders provide input. The guide provides a table with two columns: “My list” of one’s own strengths/weaknesses, and “Additional inputs from my team” where each co-founder’s name is listed for them to add feedback . This way, the team can verify if everyone sees strengths and weaknesses similarly. For weaknesses, the guide suggests founders should clarify what assistance they’ll need to improve and where they will rely on teammates to complement them . By explicitly sharing weaknesses, founders can also proactively ask, “What help have [my co-founders] asked for?” in those areas – fostering mutual support.
+(In the guide’s example, a founder’s listed strengths included being “able to win people over easily,” “creative…fresh approaches,” “action-oriented,” etc., while weaknesses included “gets caught up in details,” “gets distracted with new challenges…doesn’t finish what I start – need to partner with a strong project manager,” and “not great rapport with employees – please give me feedback if someone feels dismissed.” These illustrate honest self-assessment and specific requests for help .)
+Section 2.2 – Work Preferences: This part addresses how to get the best (and worst) out of me, and how I might be misunderstood. Founders fill in prompts that communicate their working style to others. The guide uses statements to be completed: “You can get the best out of me by…”, “You can get the worst out of me by…”, and “I can sometimes be misunderstood when…”. Each founder reflects on and shares what conditions enable them to do their best work and what behaviors or situations frustrate them or bring out their worst. They also note situations where their actions or style might be misinterpreted. During the team discussion, co-founders can take notes (there are [Name] fields for each co-founder, similar to section 2.1). This exchange serves as “advice you are giving those in your team on how to best work with you,” as the guide describes.
+For example, a founder might say “You can get the best out of me by bringing me in early to brainstorm solutions together” and “You get the worst out of me by being too verbose or not getting to the point (because I lose focus).” A misunderstanding example could be: “I can be misunderstood when I challenge an idea – I’m not trying to be difficult, I just operate on principles and want to fully understand.” In fact, the guide’s illustration included statements like “I prefer people be concise – I lose focus quickly…,” “I have a lot of energy and some might feel like everything I ask for is urgent – I’ll do my best to clarify urgency; feel free to remind me,” and “When I challenge an idea, some people might think I’m trying to be difficult. I’m really trying to understand so I can be fully on board.”. These clarify personal quirks and assure the team that, for instance, a founder’s intense questioning isn’t personal conflict but a desire for clarity.
+In summary, Section 2.2 creates a mini “operating manual” for each person’s collaboration style – what to do and not to do when working with them, and how to interpret their behavior correctly. Sharing this openly helps teammates avoid unintentionally pushing each other’s “worst” buttons and gives insight into each member’s communication style.
+Section 2.3 – Feedback and Conflict: The final sub-section of working style deals with how each founder prefers to give/receive feedback and handle conflicts. It prompts each to complete: “The best way to give me feedback is by ___” and “When we get into conflict, the best way to resolve it with me is ___.” . (The guide even footnotes that “conflict” here means an argument about the business or interpersonal issues .) Founders fill in their preferences individually, then share and discuss as a group. Again, each person’s name is listed so others can jot down any additional notes during discussion .
+This section recognizes that everyone has different conflict-resolution styles. Some might prefer direct, blunt feedback; others may need a softer approach or time to process criticism. For conflict resolution, one founder might favor hashing it out immediately face-to-face, while another might need a cooling-off period. By stating this upfront, the team can manage disagreements more productively. The guide stresses that the goal is not to avoid conflict or feedback entirely (those are inevitable and even healthy), but to “learn how to deal with feedback and conflict well.”. Indeed, being explicit about feedback preferences ensures that when issues arise, they can be addressed in a way that each person can actually hear and respond to.
+In the example given, a founder wrote: “I’m not a very direct person… Give me feedback bluntly, but expect me to go away and think about it (and feel hurt) – I’ll be fine eventually.” Another point: “I prefer to receive feedback in a respectful, non-emotionally-charged way – perhaps wait a day or two if needed.” They also noted “I shut down when people are rude,” and in conflict “if you see me disengaging, I might need a minute or a day to re-engage” . These illustrate how one founder might prefer candid feedback but with patience, and that they may need space during heated conflict. Another person might say the opposite (e.g. “I appreciate immediate, candid feedback and want to resolve conflicts on the spot”). The key is each founder lays out a guide to interacting with them under stress.
+Overall, Section 2 equips the team with knowledge of how to work with each other’s personalities: what each founder needs to thrive, the likely pitfalls or triggers to avoid, and how to communicate especially when delivering criticism or facing disagreements.
+Section 3: Our Partnership (Team Dynamics)
+Section 3 shifts to the collective level – aligning the co-founders on how they will operate together as a leadership team. It covers explicit expectations of each other, perceived fairness in contributions/rewards, and planning for potential interpersonal failure points. The guide prefaces this section by stating its importance: “Unclear expectations of each other and feelings of unfairness are two of the largest sources of conflict in a founding team.” . Thus, this section aims to surface and address those issues before they fester. It invites the team to “check in” on the state of their partnership and openly discuss any latent tensions. Founders complete it after individual reflection and then as a group, similar to prior sections.
+The introduction to Section 3 highlights three areas to clarify :
+Expectations: making sure everyone knows what is expected of them and of others. Clear expectations build trust; unmet, unspoken expectations erode it. “Delivering on the expectations that others have of you creates trust… Unmet expectations erode trust and can be a big source of conflict. A founding team can minimize conflict by making sure expectations are explicit and clear.” . In short, explicitly define roles and responsibilities.
+
+Interpersonal equity: ensuring a fair balance in what each founder gives and takes from the startup. The guide defines this concept: “just as a business has financial equity, relationships have interpersonal equity – fairness in the give and take of the members of the team.” Each co-founder has a perception of what they contribute (time, work, ideas, capital, connections, expertise, etc.) versus what they get (salary, ownership stake, status, flexibility, control, personal fulfillment, etc.) . If someone feels this balance is “off” – e.g. they’re giving much more than they’re getting or vice versa – resentment can build. “When the balance is off, it creates tension and may culminate in partners walking away from the work.” . Thus, the team should talk about whether everyone feels the partnership is fair.
+
+“Partnersh*t” scenarios: a frank exploration of how things could go wrong between the co-founders. The term (a tongue-in-cheek play on partnership) refers to nightmare partnership situations. The guide suggests a hypothetical failure scenario: “Suppose our startup fails 12 months from now because of interpersonal challenges in our founding team (not due to running out of money or lacking product-market fit). What could be possible reasons for it?” . By imagining the team imploding, the founders can identify specific sources of risk (e.g. “we might fall apart because one of us might feel sidelined in decision-making,” or “because we might never agree on spending vs. growth strategy,” etc.). The follow-up is: “What can we do now to minimize this risk?” Essentially, this is a pre-mortem for co-founder conflict – to preempt issues before they happen.
+
+After this intro, the section is divided into three corresponding parts:
+Section 3.1 – Expectations: Each founder answers: (a) “What expectations do I have of myself in my role? What contributions am I making or plan to make for this startup to succeed?” ; (b) “What expectations do I think others have of me?” ; and (c) “What expectations do I have of my co-founders / leaders in my company?” . The guide provides space to list each co-founder by name and write down what you expect from that person . This explicit listing is critical – for example, one might expect a co-founder who is CTO to “deliver a world-class product on schedule,” or expect a CEO co-founder to “keep investors informed and raise the next round,” etc., while expecting of oneself “I will drive X metric or lead the sales efforts,” etc.
+After individuals list these, the team discussion involves sharing and comparing: Do co-founders’ expectations of each other match? Often, this exercise reveals misaligned assumptions. The guide then provides a prompt (during discussion) to capture “What additional expectations do others have of me?” – i.e. each founder hears from their colleagues if there’s something expected of them that they didn’t list themselves. All of this is to ensure no important expectation goes unspoken. By the end, everyone should know “what I need to do so my team trusts me” and “what I am counting on my teammates to do.” This prevents the silent disappointment that occurs when expectations are missed unknowingly.
+Section 3.2 – Interpersonal Equity: Here, each founder assesses how fair the partnership feels. The guide frames it as an Interpersonal Equity Assessment with scaled questions :
+“How satisfied are you with what you contribute as compared to what your co-founders contribute?”
+
+“How satisfied are you with what you receive as compared to what your co-founders receive?”
+
+“How fair do you feel your arrangement is overall?”
+
+Founders likely rate these on a scale (the worksheet shows “Not satisfied – Very satisfied” under the first two questions and the third, implying a 1–10 or low-to-high satisfaction rating) . If anyone is not fully satisfied or perceives a gap, that’s a signal to discuss. After individual reflection, the team discussion addresses: “What will we do as a team to ensure everyone is satisfied in the fairness of our partnership?… What can you and your co-founders do to make this a 10/10 on all points?” . In practice, this could involve adjusting roles, rebalancing equity or compensation, redefining decision-making authority, or simply acknowledging contributions more. The key outcome is to surface any feelings of inequity and plan concrete steps to fix them (“make it a 10 rating” as the guide says ). This conversation can be uncomfortable, but it’s better to address it early than let resentment grow.
+(Notably, one of the reference books in the guide, The Partnership Charter by David Gage, deals extensively with structuring fair partnerships , underscoring how crucial this topic is.)
+Section 3.3 – “Partnersh*t” Scenarios: This final part is essentially a team self-diagnosis of possible future conflict. The founders individually imagine the venture failed due to co-founder issues and list “3 of the most likely reasons for it.” Then they answer: “What can we do to minimize this risk?” . During the group session, they share these hypothetical reasons and insights, and compile an action plan. The guide provides space to “capture new insights from others in your team.” . Often, this exercise brings up issues such as “Founder X might leave if the company pivots away from their vision,” or “We could implode because we avoid hard conversations until it’s too late,” or “If we don’t set clear decision boundaries between us, we will clash.” By discussing such scenarios openly, the team can agree on preventive measures (for example, a promise to have quarterly frank check-ins, or to formally assign decision domains to each founder, etc.). Essentially, Section 3.3 forces the team to confront hard “what if” questions about their collaboration.
+The guide’s tone in this section encourages frankness – better to have tough conversations in a hypothetical setting than in the heat of a real conflict. As it says, “Spend this section clarifying with your team what you expect from yourself and from each other… check in on how fair you feel this arrangement has been to-date, and do some planning around worst case scenarios.” . This proactive approach strengthens the partnership’s resilience.
+(The guide is accompanied by an example Founder’s User Guide filled out by a hypothetical team, illustrating how answers might look. This example spans motivation rankings, sample strengths/weaknesses, personal working preferences, and potential conflict scenarios, giving founders a model. We referenced a few of those example answers above in italics to show how the frameworks are applied in real life.)
+In summary, the Google Launchpad Founders’ User Guide provides a comprehensive framework for co-founders to articulate and align on: individual motivations (Head/Heart/Wallet), working styles (strengths, weaknesses, work habits, feedback needs), and partnership expectations (roles, fairness, conflict risks). The overarching message is that founding a startup is not just a business endeavor but fundamentally a human partnership – and like any relationship, clear communication and managing expectations are key. By completing the three sections, a founding team creates a living document that can be referred back to, helping them navigate tensions and stay united. As one quote in the guide emphasizes, “High-functioning teams are gold and the true key to success.” All the models and advice in the guide aim to cultivate such a high-functioning team through trust, understanding, and alignment.
+Part 2: Research Analysis – Currency and Relevance of the Guide’s Frameworks (2025)
+The Founders’ User Guide covers critical aspects of team dynamics that remain highly relevant to startup success today. In fact, recent research and industry observations largely affirm the guide’s core premises – while suggesting a few areas where modern context or additional practices can enhance the original content. Below, we analyze each major component of the guide (motivations, working style, feedback/conflict, expectations, equity, and conflict scenarios) in light of current (2020s) knowledge. We also identify what can remain “as is” and what might be updated or expanded for today’s startup founders.
+Founder Motivations: “Head, Heart, Wallet” – Still Valid?
+Assessment: The Head/Heart/Wallet framework of personal motivations is a succinct way to categorize why entrepreneurs embark on startups. This model holds up well in 2025, as it essentially covers the spectrum of intrinsic and extrinsic motivators known in entrepreneurship literature. Recent entrepreneurial research similarly distinguishes motivations like passion/mission, opportunity-driven creativity, and financial or career rewards – which map closely to Heart, Head, and Wallet .
+For instance, Google’s own 2020 “Effective Founders Project” study explicitly used the same three motivation categories, noting “Some [founders] are motivated by the intellectual challenge… Others are motivated by a passion for [an industry or users]… Others are motivated by the financial or even social wallet…status, title, access… They may feel less invested when exit plans seem unlikely.” . This shows that leading startup researchers continue to rely on Head/Heart/Wallet terminology, reinforcing its relevance.
+Contemporary startup ecosystems also recognize “mission-driven” vs “profit-driven” founders, etc., which aligns with Heart vs. Wallet. And the “Head” type – loving the problem-solving – is common in tech (think of engineers founding startups for the technical challenge). Academic studies on entrepreneurial motivation have long differentiated between intrinsic motivations (like personal fulfillment, challenge, social cause) and extrinsic motivations (like financial gains) . The guide’s model nicely encapsulates those in memorable terms.
+One addition since the guide’s original publication (circa mid-2010s) is a growing recognition of “independence” or “autonomy” as a key motivator – many founders start companies to be their own boss or create their own work culture. This is somewhat implied in “Wallet” (status/control) , but could be more explicit. Modern surveys (e.g., from 2021–2022) often cite “freedom to make my own decisions” as a top reason to found a startup, alongside passion and financial gain. Incorporating “Independence” as an aspect (perhaps under Wallet or as a fourth category) could update the framework slightly.
+Recommendation: The Head/Heart/Wallet model can remain as is – it is a straightforward, still-current way for co-founders to explain their goals. Founders in 2025 should continue to discuss their primary motivators openly, just as the guide advises, since misaligned founder motivations indeed lead to conflict or divergent priorities. We might update the content only to acknowledge that many founders have mixed motives (e.g. both Heart and Wallet) and that these can evolve over time. Encouraging founders to periodically re-check if their motivator emphasis has shifted (for example, once initial intellectual curiosity is satisfied, “Wallet” might become more pressing) could strengthen the advice.
+Additionally, we could reference that Noam Wasserman’s research in The Founder’s Dilemmas supports discussing motivations and life goals upfront. Wasserman notes that founders often face a “rich vs. king” choice (wealth vs. control) – essentially Wallet vs. Head/Heart trade-offs – and misalignment there can break a team . So modern best practices still say founders must align on vision and goals early. The guide’s approach to lay out motivations addresses this well.
+Overall, the importance of aligning (or at least understanding) personal motivations is as high as ever. The content in Section 1 stands the test of time – and is even validated by Google’s 2020 founders study which found that effective co-founders “openly discuss what they expect from each other and constantly check that both feel expectations are fair” (which ties motivations to expectations). No major new frameworks supplant Head/Heart/Wallet, so the guide’s original model remains a solid foundation.
+Working Styles & Team Effectiveness: New Insights on Communication and Strengths
+Assessment: Section 2 of the guide tackles individual work styles, which intersects with the modern focus on team communication, psychological safety, and leveraging strengths. The fundamental idea – having each team member articulate their working preferences and needs – is strongly supported by current research on high-performing teams.
+One of the most significant findings in team research in the past decade is the importance of psychological safety. Google’s Project Aristotle (2015) found that the “highest-performing teams have one thing in common: psychological safety – the belief that you won’t be punished when you make a mistake.” . By having members share how to best communicate with them and openly admit weaknesses (as in Sections 2.1 and 2.2), the guide fosters an environment of trust and openness – key components of psychological safety. In 2022, Harvard Business Review noted that “65% of startups fail due to conflict among co-founders” , and one preventative is cultivating a climate where founders can “productively disagree” . The User Guide’s emphasis on surfacing differences in work style and soliciting feedback preferences directly contributes to healthy conflict resolution – a trait identified in productive co-founder relationships .
+The practice of creating a “personal user manual” (like Section 2’s output) has actually become more popular across industries in recent years, especially with the rise of remote/hybrid teams. Major companies (e.g., Atlassian, Slack) have promoted the use of personal “ReadMe” docs for employees to quickly convey their working style to colleagues . In 2024, Slack’s Future Forum reported that “Personal Operating Manuals… fast-track trust and connection among distributed teams” . This is essentially the same concept as the Founders’ User Guide Section 2, applied broadly. The benefit is echoed in research: when team members understand each other’s personalities and habits, they collaborate with fewer misunderstandings and trust increases, which in turn boosts team performance . Therefore, the guide’s approach is not only current, it was ahead of a trend.
+Where could Section 2 be augmented for 2025? A few points:
+Remote Work Considerations: The guide was likely written when many teams worked co-located. Now, with many startups being remote or hybrid, work preferences have expanded to include things like time zone differences, preferred communication channels (Slack vs. email vs. calls), and boundaries between work and personal life. It would be useful to update the Work Preferences (Section 2.2) prompts to include remote-specific preferences, e.g., “My working hours and response expectations” or “I prefer video calls for difficult discussions” etc. This ensures teams discuss logistical style differences that often cause friction in distributed teams (for example, someone might feel a co-founder is unresponsive or too terse on chat, when it’s just their style). Future Forum research shows that remote teams benefit significantly from explicit communication norms – exactly what Section 2 is about. So the content is still relevant; just broaden the examples to cover remote communication preferences.
+
+Strengths-Based Focus: Modern management often encourages a “strengths-based” approach (leveraging each person’s strong suits) along with acknowledging weaknesses. The guide’s Section 2.1 does this by listing strengths and gaps. Current thinking would still endorse that exercise. We might update it with reference to tools like StrengthsFinder or other assessments if teams use those, but that’s optional. The core action – team members giving each other feedback on one another’s perceived strengths/weaknesses – is supported by organizational psychology as a way to improve self-awareness and team role allocation. It should remain as is.
+
+Feedback Culture & “Radical Candor”: One notable framework that gained popularity since mid-2010s is Radical Candor (by Kim Scott, 2017), which encourages being very direct with feedback while showing personal care. The guide’s Section 2.3 is essentially customizing how to practice candor with care for each person. Today’s best practices still call for clear, respectful feedback loops. We might integrate the language of Radical Candor when updating: e.g., encourage founders to let others know how to challenge them directly without offense. However, the guide already covers the spirit of it. In fact, a 2017 HBR article confirms “high-performing teams need psychological safety” and one way to build that is by establishing norms for feedback and conflict that everyone is comfortable with . So Section 2.3’s content is validated. We should keep it, and perhaps cite that it aligns with evidence-based frameworks (to give founders confidence that sharing feedback preferences is a known best practice).
+
+Recommendation: The Working Style section’s content can remain largely as is, with minor updates for context:
+Emphasize its importance for remote teams (perhaps add a note: in distributed teams, doing this is even more crucial since you don’t learn each other’s quirks organically in an office ).
+
+Incorporate contemporary terminology: e.g., call the user guide an example of a “Personal User Manual,” a concept proven to increase team trust and productivity .
+
+Encourage ongoing use: suggest revisiting these preferences periodically or when a new team member (like a new co-founder or key hire) joins, to integrate them smoothly.
+
+Finally, an insight from Slack’s 2023 research: “Trust is the key driver of productivity” in teams . The guide’s Section 2 fosters trust by enabling understanding. We should highlight that updated statistic to reinforce why investing time in this is not just touchy-feely, but productivity-enhancing.
+Co-Founder Expectations and Trust: Alignment is Critical (No Change, Just Reinforce)
+Assessment: Section 3.1 on mutual expectations remains highly pertinent. One of the top reasons for co-founder fallout is indeed unmet expectations or conflicting assumptions about roles and contributions. This has not changed. If anything, in today’s fast-paced startup scene, roles can evolve quickly (say, one founder suddenly spends most time fundraising, leaving product duties to the other), and if that’s not communicated, resentment ensues.
+Noam Wasserman’s findings (Harvard) explicitly state that founder misalignment in visions or expectations often leads to team breakups . A 2021 Entrepreneur article by Bryce Conlan, referencing Wasserman, stressed “team alignment isn’t nice to have – it’s critical” and that even founders who start as friends can diverge when assumptions are not discussed . The article explains that as soon as real work begins, differences in “ideals, values, perspectives, motivations” will surface, and “those differences…are potential problem spots as you grow” . This perfectly echoes the guide’s rationale for explicit expectations.
+Contemporary advice for startups (e.g., Y Combinator’s guides or other accelerators) always includes: “Define founder roles clearly and discuss scenarios like ‘Who’s CEO? How will decisions be made? What if we disagree?’ early on.” The Expectations section of the user guide addresses this by having each founder state what they expect of themselves and others in their roles. This is very much up-to-date advice.
+One might augment it by recommending a written Founder Agreement or a “partnership charter” (the guide’s reference to Gage’s The Partnership Charter suggests this as well) . In practice, many founding teams now formalize expectations in a brief co-founder agreement covering equity splits, decision-making, and responsibilities. The user guide’s Q&A format is a precursor to that. We could suggest that after doing the guide, the team documents key agreements in writing (if not already done in legal form).
+The notion of violated expectations being the main source of conflict is supported by Google’s 2020 internal research: “Violated expectations are the main source of conflict [among cofounders]. The most effective cofounders openly discuss and document what they expect from each other…” . This is a direct validation of Section 3.1’s importance. The guide is essentially instructing founders to do exactly that (discuss and document expectations), which Google found the best teams do.
+Recommendation: The content on Expectations should remain unchanged in principle. We should reinforce it with current data – for example, mention that 65% of high-potential startups fail due to co-founder conflict, much of which stems from unmet expectations . Also mention the Google finding that checking expectations and perceived fairness regularly is a hallmark of effective teams . Founders in 2025 should be encouraged to have this expectations dialogue not just once, but repeatedly as the startup grows (perhaps an update: schedule a “founders alignment check-in” every few months to revisit expectations, since roles can shift).
+In summary, no content needs replacement here – if anything, double down on it. Perhaps include a prompt for “Are there any implicit expectations we haven’t talked about? e.g., expected time commitment, whether one founder can take a sabbatical, etc.” because sometimes expectations outside daily work (like commitment level, or how decisions like spending company money are handled) can be overlooked. Making the implicit explicit is the timeless advice; it fully holds true.
+Interpersonal Equity: Fairness and Equity Splits – Still a Major Issue
+Assessment: The guide’s treatment of Interpersonal Equity (Section 3.2) is prescient and remains highly relevant globally. Perceptions of unfairness often lead to co-founder disputes. Recent industry discussions frequently revolve around fairness in equity splits, title distribution, and recognition. The guide broadens “equity” to all give-and-take, which is good.
+Data point: In the Rock Center Startup Guide (Harvard) 2021, experts noted “dividing equity equally doesn’t ensure fairness – it often leads to future discord” and they emphasize carefully structuring co-founder equity to account for contributions . This implies that perceived inequity (if one founder feels they do more but ownership is equal, or vice versa) will cause conflict down the road – exactly what interpersonal equity in the guide addresses. The guide asks each founder to quantify their satisfaction with contributions and rewards, which is a way to catch such feelings early. This approach is aligned with Adams’ Equity Theory (a classic organizational psychology theory) which says people compare their input/output ratio to others’; if they perceive imbalance, motivation falls and conflict can arise. Modern startup literature continually stresses fairness for this reason – e.g., ensuring all founders feel the equity split is justified by their contributions, and if not, adjusting roles or equity accordingly.
+Additionally, a 2020 study by Gompers et al. (cited in the Google Effective Founders report) found “55% of startups fail because of people problems”, and a significant subset of those problems relate to co-founder equity and power struggles . Ensuring everyone feels the division of rewards is fair is crucial to avoid those struggles.
+Global relevance: The concept of interpersonal equity is universally applicable – in the US context, much focus is on equity stake and title; in other cultures, it might also include respect and informal power balance. Regardless, founders worldwide need to feel the partnership is equitable. Anecdotally, many incubators in Asia and Europe also encourage frank talks about contribution and equity; the guide’s method works across regions because it’s about individual perception. Cultural differences might influence how directly people express dissatisfaction, but the guided questions can facilitate that even in high-context cultures by making it a formal exercise.
+Recommendation: Keep the interpersonal equity assessment but consider updating the tools to act on it. For instance, if a founder rates fairness low, the guide currently says “what will we do to ensure everyone is satisfied?” In 2025, we can provide examples: if one founder feels they’re contributing more, maybe the team can adjust equity or decision authority or bring in help to balance workloads. There are modern solutions like dynamic equity split arrangements (founders agree to re-evaluate equity based on contributions at milestones) that could be mentioned as an option if fairness is a concern. These are detailed in startup literature to mitigate conflict (e.g., Slicing Pie model, etc., though those are complex to introduce in a short guide).
+However, going that deep might be beyond the guide’s scope, which is more of a discussion tool. At minimum, we should update the guide to encourage honesty and action: if anyone is not “very satisfied” on those scales, the founders should treat it as a serious issue to resolve (potentially involving mentors or legal structure changes if needed). The current guide already sets the stage; confirming its importance with the stat that co-founder equity disputes are a known startup killer would emphasize why this discussion should not be glossed over.
+So, no replacement needed – just perhaps add contemporary context: e.g., “Research shows equal splits often don’t feel fair over time, and unresolved feelings of inequity can break teams . Founders should revisit this conversation anytime roles or effort levels change significantly.”
+“Partnersh*t” Premortem: Proactively Identifying Conflict – A Wise Practice
+Assessment: The guide’s suggestion to do a premortem on co-founder conflict (Section 3.3) is a forward-thinking strategy that aligns with widely recommended premortem exercises in business. A premortem (coined by psychologist Gary Klein) is now a common technique to identify project risks by imagining failure . Applying it to team dynamics is somewhat unique, but very sensible.
+In the context of startup teams, few formal studies quantify the effect of doing such an exercise, but anecdotal evidence from accelerators suggests that founders who openly discuss “what could go wrong between us” build stronger partnerships. For example, some founder programs prompt teams to write down fears and worst-case scenarios (similar to this guide) to encourage transparent dialogue. The fact that Google’s Launchpad incorporated it indicates it likely came from seasoned startup coaches – it addresses issues before legal disputes or personal rancor set in.
+Looking at recent sources: A 2022 HBR article “Cofounders Need to Learn How to Productively Disagree” encourages founders to actively develop conflict resolution processes early, rather than assuming everything will be fine . It implies thinking ahead about conflicts. Also, Winsavvy (a startup blog) reiterates the 65% failure stat and says “this stat shows that startups who prepare for disputes cut their fallout rate…” , essentially supporting the idea that preparing (via something like a premortem) can reduce risk.
+Global/team changes: Founders globally can benefit from this. Perhaps one update: in 2025, mental health and co-founder burnout are discussed more openly. A possible addition to the premortem might be considering personal well-being scenarios (e.g., “What if one of us is overwhelmed or faces personal crisis – could that lead to interpersonal breakdown?”). But that might be beyond scope; it’s an angle to consider since co-founders falling out often has a root in stress and burnout.
+The premortem approach is still relatively novel in many founding teams – many avoid imagining failure. However, given how often startups do fail, this exercise is if anything more relevant now as startups strive to preempt problems. We found no newer framework that replaces this; rather, it aligns with the general shift toward risk management in startup building (founders are told to identify risks early – usually market or tech risks; this adds team risks).
+Recommendation: Continue to strongly encourage this “Partnersh*t scenario” exercise. We should retain the content and perhaps explicitly label it as a “premortem.” We can mention that premortem analysis is a proven method to uncover hidden issues (citing Psychology Today or Forbes explaining premortems ). Also, if updating, advise the team to revisit their listed scenarios later. For example, after a year, check if any of those potential issues are starting to manifest, and address them.
+No replacement needed – if anything, amplify it with real examples: e.g., note that many founders only realize the interpersonal issues when it’s too late; by doing this hypothetical, they might catch a scenario like “co-founder feels not listened to in product decisions” early and implement a fix (perhaps rotating meeting leadership or ensuring everyone’s heard).
+Additional Updates and Best Practices:
+Beyond the specific sections, a few general updates for today’s context:
+Diversity and Inclusion: Modern teams are more diverse (in gender, background, etc.). Different communication styles can be partly cultural or personal. The guide’s frameworks apply to any team composition, but an update could encourage acknowledging and respecting diversity in work styles. For example, some cultures are more indirect – a question in 2.3 might be answered by a non-Western founder as “I prefer feedback to be given politely and not in front of others,” which is important to note. Encouraging awareness of such differences is in line with current inclusion practices. Not a change, but an emphasis.
+
+Document and Iterate: The guide results in a documented “user guide” for each founder. Today, with so many collaboration tools, teams often keep such docs in a shared drive or wiki and update them. A best practice is to treat the Founders’ User Guide as a living document – update sections if someone’s motivations shift or if new conflict scenarios emerge. We might recommend scheduling a revisit (perhaps annually or after major milestones) to ensure it stays current. Startups pivot and roles change, so the user guide should evolve too.
+
+Startup Failure Stats: The guide’s general thrust is justified by stats: We’ve mentioned 65% failure due to conflict (Wasserman) and 55% due to people problems (Gompers et al.) . These are powerful numbers to retain or even highlight more. It reminds founders that focusing on team dynamics is not a “soft” optional task – it’s addressing the #1 risk factor for failure. If anything, updated guides could put this up front: e.g., “People problems are the biggest threat to startups – one study found 55% of startup failures were due to team issues, not the market . That’s why this guide matters.” This frames the whole exercise as mission-critical, aligning with how investors also scrutinize team cohesion now.
+
+New Research/Frameworks: We did not find a new framework that contradicts or replaces anything in the guide. All evidence suggests the guide’s topics are evergreen. If anything, new terms like “founder relationship building” or “co-founder compatibility check” are being floated in blogs, but they usually boil down to the same content: discuss vision, roles, conflict, etc. A 2022 HBR piece gave tips for co-founders to disagree productively, which include “establish norms, take time to cool off, and seek third-party help if needed” – these are steps that would come into play if the guide’s identified conflict scenarios actually occur. We might add: if despite doing all this, serious conflict arises, consider mediation or coaching (which is more accepted now). But hopefully, the guide pre-empts many issues.
+
+In conclusion, the Founders’ User Guide’s content is remarkably current in 2025. Its focus on open communication, expectation alignment, and fairness is strongly supported by contemporary research and practice. Most of the frameworks (motivations model, personal user manual, premortem) have actually gained wider recognition since the guide was created. The advice can largely stand “as is,” with a few enhancements:
+Incorporate recent statistics or findings to reinforce each point (as we have cited).
+
+Add considerations for remote teamwork and evolving roles.
+
+Suggest periodic review of the guide and possibly formalizing key outcomes (like in founder agreements).
+
+By applying these updates, the Founders’ User Guide will continue to be an invaluable tool for startup teams worldwide, helping them avoid the common pitfalls of co-founder conflict and build the “high-functioning teams” that are indeed “gold” for any startup’s success.
+Summary of Retain/Update Recommendations:
+Motivations (Head/Heart/Wallet): Retain the framework – it’s still valid. Update by highlighting its alignment with intrinsic/extrinsic motivation research and note founders should re-check motivations over time. No replacement needed .
+
+Working Style (Strengths, Preferences, Feedback): Retain all elements – self/other assessment of strengths & weaknesses, personal user manual for work preferences, feedback/conflict handling preferences. These are supported by current best practices (e.g. personal user manuals fast-track trust ). Update to address remote work norms and encourage periodic updates. Emphasize that this fosters psychological safety, a known key to team performance .
+
+Expectations Alignment: Keep as is, absolutely essential. Augment with recent stats (65% failure from conflict ) to stress importance. Encourage documentation of agreements and regular check-ins. This content is fully current .
+
+Interpersonal Equity (Fairness): Retain the assessment. Update by advising action on any dissatisfaction – possibly revisiting equity or role distribution. Cite that unresolved fairness issues lead to breakups . The principle stands; just ensure founders don’t stop at discussion but follow up.
+
+Partnersh*t Scenarios (Premortem): Retain this innovative exercise. It remains ahead of the curve in preventing conflict. Update by explicitly calling it a “premortem” and encourage teams to revisit their answers. This forward-looking approach is still one of the best ways to anticipate issues – no newer replacement exists, just broader adoption.
+
+In sum, the Founders’ User Guide does not require drastic changes – it largely anticipated the factors that today’s research confirms as crucial. The key is to reinforce its guidance with contemporary evidence, and adjust tone/examples for the modern context (remote collaboration, etc.). By doing so, founders using it in 2025 can trust that the advice is not only still relevant but backed by data and experience gathered over the last decade.
+Sources:
+Google Launchpad Founders’ User Guide (Martin Gonzalez) – content and frameworks .
+
+Wasserman, Noam. The Founder’s Dilemmas – finding on 65% of high-potential startup failures due to co-founder conflict .
+
+Conlan, Bryce (2021). “Team alignment isn’t nice to have – it’s critical…” .
+
+Google for Startups (2020). Effective Founders Project – highlights on open dialogues, interpersonal equity, and people problems (55% failure stat) .
+
+Slack (2024). “Personal Operating Manuals can fast-track trust in distributed teams” .
+
+Harvard Business Review (2017). Psychological safety as #1 factor in team performance .
+
+Harvard Business Review (2022). Need for co-founders to learn to disagree productively .
+
+HBS Rock Center Startup Guide (2021). Warnings against simple equal equity splits and need for fairness provisions .
+
+Psychology Today / Forbes on Premortem technique for risk management .
+
+Slack Future of Work Research (2023). Trust as key driver of productivity .
+
+Etc. (Additional citations embedded above).
+
+
+========== SOURCE: The-Hidden-Co-Founder-Code-Presentation-Final.pdf ==========
+
+The Hidden Co-Founder Code
+How to Build (and Break) a Startup Team
+
+    by Ryan Shuken
+Ryan Shuken
+   3x startups on 3 continents
+   18 years living in Shanghai China
+   10+ years running and building startup accelerators in Asia with Orbit VC
+   Founded startup accelerators in emerging markets - MOX in Taiwan
+   700+ startup investments - reviewed thousands of pitches
+   Biotech, Hardware, AI, Apps, Platforms, Crypto and More
+   Startup Ecosystem Builder in Emerging Markets
+   Startup Accelerator Director guiding early-stage founders
+   Startup Coach & VC Advisor
+   Google Startup Founders Lab Facilitator in Asia
+   Full-Stack Developer & AI Engineer
+   Host and Founder of the China Startup Pulse Podcast (exited)
+   CTO of Cora AI
+Newly Moved to Boulder / Denver Startup Scene
+   Founder of OpenClawInstall.net
+   Co-founder of Let's Vibe AI community in Denver
+Get the Founders Lab Toolkit
+
+
+
+
+      rshuken.github.io/founders-lab
+                                                              65%
+                                    of startups fail due to team problems
+
+Venture capitalists in one survey attributed 65% of failures within their portfolio to <people issues=, compared to 35% due to product, functional or market
+problems. Source: Wasserman, Noam. (2013). The Founder9s Dilemmas.
+The Real Problem
+65% of failed startups is a founder relationship that broke
+before the business did.
+
+
+           Team Dysfunction
+           Most founders skip critical conversations about values,
+           expectations, and decision-making.
+
+
+           Silent Misalignment
+           Assumptions build until communication breaks down
+           completely.
+
+
+           Partnership Fracture
+           By the time issues surface, trust has eroded beyond repair.
+Why Cofounder Dynamics Matter
+
+Preventable Blow-ups                        First Product                                Foundation for Scale
+Most founder conflicts show warning         Your founding team is your startup's         Strong founder relationships create the
+signs early. Structured alignment helps     prototype. If this human system fails,       stability needed to weather market shifts
+identify issues before they explode.        nothing else matters.                        and investor pressure.
+
+Your team's health directly impacts decision quality, execution speed, and innovation capacity. Investors bet on teams first, ideas
+second.
+We Can Fix The
+    65%
+What We'll Cover
+                              Why Startups Fail
+Beyond product-market fit, we'll explore the human
+  dynamics that truly determine startup success or
+                                             failure.
+                                                        Co-Founder Bugs & Cognitive Bias
+                                                        Common patterns of misalignment that silently
+                                                        damage founding teams before they're noticed.
+The Founders User Handbook Framework
+A structured approach to building resilient founding
+              teams through intentional alignment.
+                                                        Tools You Can Use Today
+                                                        Practical methods to identify and resolve co-founder
+                                                        issues before they threaten your startup.
+"Engineering is easy. People are hard."
+Bill Coughran
+
+Former Google VP
+
+Sequoia Capital
+When Everything Looks
+Perfect on Paper
+   What could possibly go wrong?
+
+
+They had the right team. A beautiful deck. Millions in funding.
+
+Human dynamics4not market fit4often deliver the fatal blow.
+Why Startups Think they Fail
+"It was bad timing. Or the market. Or maybe we just ran out of money."
+
+
+
+
+ No Market Need
+
+
+
+ Ran Out of Cash
+
+
+
+     Wrong Team
+
+
+
+   Outcompeted
+
+
+
+    Pricing Issues
+
+
+
+    Poor Product
+
+
+                     0                                  15                                   30                                    45
+
+Founders often cite external factors for failure. Yet CB Insights data reveals the uncomfortable truth: the problems are usually internal. Almost a quarter of failures stem directly from
+team dynamics.
+What We Talk About 4 and What
+We Don't
+Founders spend 90% of their time discussing what's above the waterline.
+
+
+              Talk About - Vision, Funding, Product
+              The visible aspects of startup conversations
+
+
+              Unspoken Expectations
+              Different assumptions about workload, roles, and decision-making
+
+
+              Power Dynamics
+              Invisible hierarchies and control struggles between founders
+
+
+              Equity Resentment & Conflict Avoidance
+              The deepest, most damaging issues left unaddressed
+When Startups Die, Founders Carry It
+With Them
+   "We still don't talk. I lost a cofounder, a friend, and two years of my life."
+
+
+Startup failure leaves scars beyond balance sheets. The emotional and relational damage can
+last for years.
+
+
+  Mental Health Crisis                                Cofounder Tension
+  72% of founders report mental health                23% cite cofounder conflicts as a
+  challenges during their startup journey.            primary source of stress and anxiety.
+
+
+
+  Lasting Impact
+  Failed partnerships create wounds that follow founders into future ventures.
+
+
+But this pattern of destruction is preventable with the right tools and frameworks. Startup
+Snapshot, 2022
+If 65% of Portfolio Deaths Are
+People Problems& Why Aren't
+We Doing More?
+$12M 4 Dead from                     $8M 4 Dead from
+Misalignment                         Emotional Burnout
+Different visions and                Founders crash when
+expectations lead to paralysis       interpersonal dynamics create
+and resentment.                      unsustainable stress.
+
+
+
+$15M 4 Dead from Cofounder Split
+When partnerships dissolve, even promising startups rarely survive
+the fallout.
+Startups Have Data Systems, Growth Systems 4 But
+No Trust System
+        Head                                              Heart                            Wallet
+        Decision frameworks and                           Core motivations, values, and    Equity distribution, compensation
+        working styles that define how                    emotional needs that drive       structures, and financial
+        founders collaborate                              founder behavior.                pressures affecting team
+        intellectually.                                                                    dynamics.
+
+Trust isn't built in a crisis. It's built proactively, just like product infrastructure.
+
+
+   If your team can't talk about these three things, it's not if it breaks 4 it's when.
+Conversations That Make or Break Co-Founders
+    25 Tough Questions                        Founders' User Guide              Address Partnersh*t
+                                                                                Scenarios
+    Structured prompts that force             Personal instruction manual for
+    clarity on expectations, values,          how to work with each founder     Framework for decoding implicit
+    and potential conflicts.                  effectively.                      beliefs and assumptions that
+                                                                                drive team dynamics.
+
+
+ These tools don't make hard conversations easy. They make them possible.
+What Are Cognitive Biases?
+  Mental Shortcuts                           Human Default                                Startup Amplifiers
+  Our brains use decision-making             They aren't flaws4they're                    The high-pressure startup
+  shortcuts when facing                      evolutionary adaptations that                environment intensifies these
+  uncertainty or stress.                     help us process complex                      biases in critical areas like hiring,
+                                             information quickly.                         feedback, and trust-building.
+
+
+  Hidden Influence                                                  Recognition is Power
+  Most founders aren't aware of how these biases silently           Simply identifying these patterns gives you an
+  shape their decisions and team dynamics.                          advantage in navigating co-founder relationships.
+Why Teams Fail: A
+Psychological Lens
+  Beyond Personality             System Distortions
+  Founders mistake bias-         Cognitive biases warp
+  driven behaviors for           feedback loops, erode trust,
+  character flaws. These are     and corrupt decision-
+  patterns, not personality      making processes.
+  problems.
+
+
+  Debugging Framework            9 Cognitive Bias
+  You don't need therapy4
+                                 Themes Behind
+                                 Cofounder <Bugs=
+  you need systematic tools to
+  identify and fix these
+  predictable patterns.
+Groupthink and Conflict-Avoidance Bias - Fear of disagreement creates
+false consensus
+  Fear of Disagreement                                                             Agreement Trap Bug
+
+  Founders prioritize harmony over honesty. This creates a dangerous illusion of   The belief that unanimity is required to move forward. This paralyzes decision-
+  consensus.                                                                       making.
+
+
+  False Positive Bug                                                               Backchanneling Bug
+
+  Saying "yes" just to avoid tension. Surface agreement masks deeper concerns.     Indirect venting replaces direct resolution. Problems fester instead of being
+                                                                                   addressed.
+
+  Concealed Consensus Bug
+
+  Mistaking discussion for actual agreement. Talking isn't the same as deciding.
+Status Quo Bias and Decision Inaction - Doing nothing
+feels safer than doing something wrong
+
+Decision Paralysis Bug:                       Do What You Please Bug:                       Opportunity Cost Bug:
+Founders often freeze when faced with         Everyone pursues their own priorities         While teams hesitate, competitors move
+risky choices. Inaction feels safer than      without alignment. This creates parallel      forward. Status quo bias silently kills
+making wrong moves.                           chaos instead of focused execution.           startups through missed opportunities.
+
+
+
+
+Crisis Jumping Bug:                           Wishful Thinking Bug:
+Teams ignore warning signs until situations   The dangerous belief that problems will
+become emergencies. They habitually wait      magically resolve themselves. Optimism
+for disasters before acting.                  plus avoidance equals predictable disaster.
+Halo Effect and Authority Bias -
+We defer to credentials, not evidence
+Credential Worship Bug:
+
+We instinctively trust the Google alumnus or PhD holder over someone with actual evidence.
+
+
+Brilliant by Category Bug:
+
+Assuming someone's competence extends across all domains because of their title or pedigree.
+
+
+Deflect by Escalation Bug:
+
+Pushing decisions upward instead of taking ownership, because "higher-ups know best."
+
+
+Merit Blindness Bug:
+
+Great ideas get ignored when they come from unexpected sources.
+In-Group Bias and Tribalism
+We trust our "tribe" - our department, our ally. Natural, but destructive in
+startups.
+
+
+               My Team vs. Your Team Bug
+               Founders fight for their function instead of the mission.
+               Engineering battles marketing.
+
+
+               Crippling Empathy Bug
+               Protecting friends from accountability creates uneven
+               standards. Trust dissolves.
+Action Bias (Busyness over Purpose)
+  Movement Addiction               Busy b Effective Bug          What > Why Bug
+  Founders crave action. Moving    Full calendars and constant   Teams execute frantically without
+  feels productive, even without   activity mask misalignment.   shared purpose. Features ship,
+  clear direction.                 Motion gets mistaken for      but nobody agrees why they
+                                   progress.                     matter.
+Attribution Biases - Self-Serving Bias
+   Fundamental Attribution Error                                    Ad Hominem Attacks
+   We blame others' character but excuse our own                    Personal criticisms replace problem-solving. Conflict
+   context. "He's lazy" instead of "he's overwhelmed."              becomes about people, not issues.
+
+
+   Lone Hero Bug
+   Success gets hoarded while failures get distributed. Team contributions fade into the background.
+Negativity Bias and Fear of Failure
+   Threat Detection Overdrive                             Criticize Everything Bug
+   Threat Detection Overdrive: Our brains prioritize      Criticize Everything Bug: Teams shoot down new
+   threats over opportunities, making risks seem larger   ideas reflexively, killing innovation before it starts.
+   than rewards.
+
+
+   Perfectionism Bug                                      Panic Bubble Bug
+   Perfectionism Bug: The impossible pursuit of           Panic Bubble Bug: Minor issues trigger team-wide
+   flawlessness prevents shipping anything at all.        stress spirals, draining energy from real priorities.
+From Bias Behavior to Better Teams
+  Human Solution                     Name to Tame                        Frameworks as Debuggers
+  Every "Bug" has a human solution   Successful teams identify           The Founders' User Guide
+  anyone can use.                    problematic patterns early and      provides templates to align,
+                                     address them explicitly together.   communicate, and correct before
+                                                                         friction breaks teams.
+The Founders User Guide
+A practical system for debugging team dynamics before they break
+
+
+
+
+                                                                                               Systematic Design
+                                                                Practical Courage
+                                                                                               Tools, questions and
+                                Preemptive Alignment
+                                                                Enables founders to have       workflows to approach the
+Structured Framework
+                                Creates psychological safety    necessary conversations that   hard issues facing startups.
+Provides templates, prompts     to discuss hard topics before   fear typically prevents.
+and guided conversations        they become critical
+that intercept bias before it   problems.
+becomes behavior.
+We Can Fix
+The 65%
+Every founder team can overcome the biases that drive
+failure.
+
+This frameworks give you practical tools to debug team
+dynamics before they break.
+
+Scan this QR code to access our AI assistant.
+The Founders' User Guide Framework
+Our framework addresses the fundamental areas where team misalignment creates friction. Each module builds psychological
+safety through structured conversation.
+
+
+       Personal Motivations                          Working Style                               Expectations Alignment
+       Uncover deep drivers behind                   Map communication                           Define roles, responsibilities, and
+       each founder's journey and                    preferences, productivity                   success metrics that prevent
+       commitment to the mission.                    patterns, and decision-making               assumption gaps.
+                                                     approaches.
+
+
+       Interpersonal Equity                                               Partnersh*t Scenarios
+       Address perceived fairness in contribution,                        Prepare for high-stress situations with pre-agreed
+       compensation, and recognition.                                     conflict resolution protocols.
+How The Founders' User Guide Works
+The Founders' User Guide creates a structured path to alignment through guided conversations that build understanding and
+trust.
+
+
+
+
+  Individual Reflection          Group Sharing                  Guided Discussion              Alignment Building
+  Founders answer                Each founder presents          The framework provides         Differences become visible
+  framework questions            their views while others       specific talking points to     and addressable before
+  honestly and                   actively listen without        unpack differences and         they evolve into destructive
+  independently to capture       interruption.                  find common ground.            conflicts.
+  unfiltered perspectives.
+What are your Founder Motivations?
+       Head Motivations
+       Intellectual challenges and problem-solving drive you. You crave innovation and thrive on creating elegant solutions.
+
+
+
+       Heart Motivations
+       You're driven by meaningful impact and purpose. Your passion fuels resilience when facing obstacles.
+
+
+
+       Wallet Motivations
+       Financial outcomes matter to you. You're motivated by creating value and building wealth.
+
+Misaligned motivations between founders create invisible friction. Debug these differences early to build stronger partnerships.
+Head / Heart / Wallet 3 Defined
+Understanding your core motivations reveals what energizes you 4 and what drains you.
+
+
+  Motivation                               Meaning                                   Demotivated when...
+
+  Head                                     Solving intellectual challenges and       Problem becomes boring, routine, or
+                                           creating elegant solutions                technically unsolvable
+
+  Heart                                    Creating meaningful impact and            Work feels irrelevant, trivial, or
+                                           connecting with users                     disconnected from purpose
+
+  Wallet                                   Building wealth, status, and financial    No clear path to financial rewards or
+                                           independence                              meaningful exit
+
+
+Each founder balances these differently. Acknowledging these differences eliminates judgment and builds mutual
+understanding.
+What are your Motivations?
+"Startups fail when co-founders stop aligning on why they're here."
+
+
+  Rank Your Current                           Revisit After Major Milestones       Share Changes Openly
+  Motivations                                 Funding rounds, product launches,    When your motivations shift,
+  Establish your Head/Heart/Wallet            and team changes shift priorities.   communicate early. Transparency
+  priorities now. Be honest about             Schedule regular check-ins to        prevents invisible friction from
+  what truly drives your commitment           reassess alignment.                  becoming visible conflict.
+  to this venture.
+What is your Working Style?
+Each person has a unique way of getting stuff done. High-functioning teams make that explicit.
+
+
+       Strengths and Gaps                                               Ideal Work Conditions
+       Identify what you do best. Acknowledge areas where               When and where do you produce your best work?
+       you need support.                                                Morning or night? Office or remote?
+
+
+       Feedback Preferences                                             Conflict Response
+       Direct or gentle? Written or verbal? Immediate or after          How do you react when tensions rise? Do you confront,
+       reflection?                                                      withdraw, or process?
+What Are You Great At? Where Do You Need Help?
+  Identify Your Superpowers                                       Acknowledge Your Blind Spots
+  Be specific about what you bring to the team. Technical         Where do you consistently struggle? These areas often
+  skills, relationship-building, and strategic thinking are all   drain your energy and lead to procrastination.
+  valuable.
+
+
+  Ask For What You Need                                           Compare Perspectives
+  Great founders don't hide weaknesses. They build                How you see yourself often differs from how others see
+  systems to compensate for them.                                 you. The gap reveals invisible friction.
+How to Get the Best (and Worst) Out of Me?
+       You get the best out of me                 You get the worst out of me                I'm sometimes
+       when...                                    when...                                    misunderstood when...
+       I have clear expectations and              Decisions keep changing without            I focus intensely on a problem.
+       autonomy to execute. When                  explanation. When                          My direct communication style
+       feedback is specific and solution-         communication happens last-                can be mistaken for criticism.
+       oriented.                                  minute or feels disorganized.
+
+Used by top-performing founding teams to build psychological safety and accelerate trust formation.
+How Do We Resolve Conflict?
+     The best way to give me feedback is...
+ 1
+     Write down your specific concerns with examples.
+
+
+     When we get into conflict...
+ 2
+     Give me space to process before discussing solutions.
+
+
+     Can we disagree and Commit?
+ 3
+     We may disagree but we will still work toward the same goal.
+
+
+     Third Party Mitigation Agreement
+ 4
+     Before we blowout should we seek help?
+What are your Expectations?
+                                              Self-Expectations
+                                              What I expect from myself
+
+
+                                                         Others' Expectations of Me
+                                                         What teammates expect me to deliver
+
+
+                                                                    My Expectations of Others
+                                                                    What I assume teammates will handle
+
+
+When these three expectation layers don't align, founders build on shaky ground.
+
+Alignment builds trust. Silence erodes it.
+Interpersonal Equity 3 Beyond the Cap Table
+  What You Give                                                     What You Get
+     Time                                                              Equity
+     Capital                                                           Salary
+     Expertise                                                         Status
+     Leads                                                             Flexibility
+     Emotional energy                                                  Decision power
+
+  Founder contributions extend far beyond financial                 True compensation isn't just stock percentage. Value comes
+  investments. Each element carries different weight for            in multiple currencies that matter differently to each founder.
+  different team members.
+
+
+The perception of fairness determines team health more than actual percentages. Unspoken expectations create invisible imbalances.
+Equity Problems Don't Solve
+Themselves
+Unfairness, ignored, becomes resentment.
+
+
+
+
+  Silent Burden                  Voice Inequality               Contribution                   Team Implosion
+  "I'm carrying the team"        "I don't have real control"
+                                                                Imbalance                      Unaddressed perceptions
+  feelings create invisible      breeds quiet power             "I'm giving more than I get"   eventually fracture
+  weight.                        struggles.                     leads to withdrawal.           foundations.
+
+
+Fairness doesn't happen by accident. It requires awareness and continuous adjustment.
+Partnersh*t Scenarios                                                           ì
+
+
+
+
+What if we fail... because of us?
+
+
+
+
+Misaligned Exit Plans                         Eroded Trust                             Avoided Conversations
+One wants to build a legacy. Another          Small breaches compound silently until   The most dangerous issues are the ones
+wants a quick sale. Conflict is inevitable.   the foundation crumbles. Transparency    you don't discuss. Silence creates
+                                              matters most when it's hardest.          distance.
+
+The point: Name these potential problems before they happen. Anticipating founder friction creates pathways to prevent it.
+Run a Team Premortem
+Use this exercise to uncover hidden risks before they become reality.
+
+
+
+
+Imagine Forward                  List Specific Scenarios            Create Prevention             Document and Revisit
+Failure                          Identify three plausible
+                                                                    Tactics                       Capture insights in your
+Project one year ahead. Your     founder issues that caused         For each scenario, develop    Founders' User Guide.
+startup has collapsed due to     the failure. Be brutally honest.   concrete actions to prevent   Schedule quarterly reviews to
+founder conflict. What                                              these outcomes.               reassess.
+happened?
+
+This isn't pessimism4it's preventative medicine for your partnership.
+Common Premortem Red Flags                                                  o
+
+
+
+
+The most dangerous founder issues grow silently before they explode publicly.
+
+
+       Silent Disengagement                                            Contribution Imbalance
+       One founder mentally checks out while maintaining               Resentment festers when workload feels unfairly
+       appearances. No announcement, just declining                    distributed. The gap widens without acknowledgment.
+       commitment.
+
+
+       Authority Ambiguity                                             Misaligned Visions on Exit and Goals
+       Decision-making boundaries remain unclear. Founders             Diverging views on exit strategy or company direction.
+       step on toes or wait for each other.                            Small differences become unbridgeable divides.
+Recap 3 Your Debugging Framework
+High-functioning teams aren't lucky. They're designed through intentional communication and structure.
+
+
+
+
+Personal Motivations                        Working Style                             Expectations
+Head / Heart / Wallet drivers               Strengths, preferences, conflict habits   Role clarity and communication needs
+
+
+
+
+Interpersonal Equity                        Partnersh*t Scenarios
+Fairness in give and take                   Premortem planning for conflicts
+
+This debugging framework creates the foundation for sustainable founder relationships. By addressing these five elements
+proactively, you build resilience against the common causes of team failure.
+Run the Founders' User Guide Process
+Transform your founding team dynamics with this structured process. Build resilience against the most common startup failure points.
+
+    Schedule 90 Minutes
+    Block uninterrupted time. This investment prevents months of misalignment later.
+
+        Download Latest Worksheet
+        Get the updated template with all five elements of high-trust teams.
+
+           Complete Individually
+           Honest self-reflection first. No group influence on personal perspectives.
+
+              Discuss Together
+              Share insights openly. Surface misalignments with curiosity, not judgment.
+
+           Document Agreements
+           Capture your team's operating system. Revisit after funding, pivots, or key hires.
+Is It Too Late?
+   Never Too Late
+   Alignment is valuable at any stage
+
+
+   Bugs Surface Later
+   Most issues emerge after 6+ months
+
+
+   Iterative Process
+   Alignment needs regular refreshing
+
+
+   Trust Reset
+   Clarity rebuilds damaged relationships
+Results of Founders
+Agreements
+
+           3x                                     2x
+       Success Rate                             Satisfaction
+ More likely to reach Series A     Higher founder relationship quality
+
+
+
+
+                            70%
+                             Reduction
+                       Fewer cofounder splits
+Thank You
+
+Founders Guide                                      Questions?
+Download the complete framework                     QnA time!
+
+    by Ryan Shuken
+
+www.linkedin.com/in/rshuken
+
+
+
+
+                                  Get the toolkit + AI assistant
+                                  rshuken.github.io/founders-lab
+
+AI Assistant Provided by PresEngage - https://presengage.com/
+Sources:
+
+   Google Launchpad Founders9 User Guide 3 content and frameworks .
+   Wasserman, Noam. The Founder9s Dilemmas 3 finding on 65% of high-potential startup failures due to co-founder conflict .
+   Conlan, Bryce (2021). <Team alignment isn9t nice to have 3 it9s critical&= .
+   Google for Startups (2020). Effective Founders Project 3 highlights on open dialogues, interpersonal equity, and people
+   problems (55% failure stat) .
+   Slack (2024). <Personal Operating Manuals can fast-track trust in distributed teams= .
+   Harvard Business Review (2017). Psychological safety as #1 factor in team performance .
+   Harvard Business Review (2022). Need for co-founders to learn to disagree productively .
+   HBS Rock Center Startup Guide (2021). Warnings against simple equal equity splits and need for fairness provisions .
+   Psychology Today / Forbes on Premortem technique for risk management .
+   Slack Future of Work Research (2023). Trust as key driver of productivity .
+Sources:
+
+   Google Launchpad FoundersLab content and <25 Common Bugs= list.
+   Re:Work with Google9s research on high-performing teams (Psychological Safety, Dependability, etc.) .
+   Founders9 User Guide (Google) 3 sections on Expectations, Interpersonal Equity, and Conflict Management .
+   Cognitive bias definitions and implications for startups (e.g., confirmation bias, status quo bias, diffusion of responsibility) .
+   Pollack Peacebuilding 3 biases fueling conflict (illustrating confirmation bias in disagreements) .
+   Leadership psychology insights on self-serving bias and trust erosion .
+
+
+========== SOURCE: Updated Founders’ User Guide Presentation.docx ==========
+
+Updated Founders’ User Guide presentation
+Why This Talk Matters
+Title:
+The #1 Reason Startups Fail Isn’t the Product.
+It’s the People.
+Content:
+65% of startup failures are attributed to “people issues”
+— not product, market, or tech.
+(Source: Noam Wasserman, The Founder’s Dilemmas)
+🧠 Misaligned visions
+🗣️ Unspoken expectations
+💥 Co-founder conflict
+Speaker Notes:
+You’ve probably heard that most startups fail. What you may not realize is that most of those failures happen not because of product-market fit — but because of the team falling apart. According to Harvard’s Noam Wasserman, 65% of high-potential startups implode due to co-founder conflict or people problems. If your founding relationship isn’t aligned and healthy, no amount of capital or traction can save you.
+Slide Design:
+Large stat (65%) at top. Three bullet icons at bottom for visual balance.
+🔹 
+SLIDE 3: What You’ll Learn Today
+Title:
+Today’s Agenda
+Debugging Your Cofounding Team
+Content:
+We’ll cover five themes from the Founders’ User Guide:
+🧭 Personal Motivations
+
+⚙️ Working Style
+
+📋 Expectations Alignment
+
+⚖️ Interpersonal Equity
+
+💣 Partnersh*t Scenarios
+
+Speaker Notes:
+We’re going to walk through the five pillars of the Founders’ User Guide. Each one helps you debug a different area of your relationship with your cofounder — and together, they can prevent the kind of slow-burn conflict that destroys teams. This is not a theoretical tool — it’s battle-tested with founders all over the world. Think of it as a user manual for the humans at the heart of your company.
+Slide Design:
+Five bullet points with icons. Clean, evenly spaced.
+🔹 
+SLIDE 4: Why Founder Motivations Matter
+Title:
+Theme 1: Personal Motivations
+Why are you really here?
+Content:
+Your motivation shapes:
+What energizes you
+
+What frustrates you
+
+How you make decisions
+
+When you want to quit
+
+🧠 Head
+❤️ Heart
+💰 Wallet
+Speaker Notes:
+Let’s start with motivation. The User Guide breaks this down into three categories: Head, Heart, and Wallet. Are you here because you love solving hard problems? That’s Head. Are you mission-driven — trying to serve a community or change an industry? That’s Heart. Are you in it for the exit, the title, the freedom? That’s Wallet. There’s no wrong answer — but misaligned motivations are a major source of co-founder conflict.
+SLIDE 5: Defining Head / Heart / Wallet
+Title:
+Head / Heart / Wallet – Defined
+Content:
+Each motivation has a different breaking point. A founder driven by Head may disengage when the tech challenge is solved. A Heart-driven founder may burn out if the mission starts to feel meaningless. A Wallet-driven founder may lose steam if there’s no reward in sight. Knowing what motivates your cofounder — and what will demotivate them — helps you anticipate behavior under pressure.
+SLIDE 6: Motivations Change — Check In Often
+Title:
+Motivations Evolve.
+So Should Your Conversations.
+Content:
+✅ Rank your current motivations
+🔁 Revisit after major milestones
+💬 Share changes openly
+Quote:
+“Startups fail when cofounders stop aligning on why they’re here.”
+Speaker Notes:
+Here’s the twist — your motivations change over time. Maybe you were mission-first, but now you’re burned out and want a clear exit. Maybe the thrill of solving the tech problem is gone, and you’re starting to disengage. That’s okay. But you have to talk about it. Recheck your Head/Heart/Wallet rankings every few months. Make it part of your founder check-ins.
+SLIDE 7: Understanding Working Styles
+Title:
+Theme 2: Working Style
+How do you actually work together?
+Content:
+Clarify and share:
+Strengths and gaps
+
+Ideal work conditions
+
+Feedback preferences
+
+Conflict response
+
+“Each person has a unique way of getting stuff done. High-functioning teams make that explicit.”
+Speaker Notes:
+Let’s talk about how you work — your operating system as a founder. This section helps you and your cofounders build trust by making your preferences explicit. What are your strengths and weaknesses? What throws you off? How do you like to receive feedback? Most teams assume or guess. High-functioning teams talk about it, write it down, and use it.
+Slide Design:
+Bullets on left, quote on right or bottom. No visuals. Large readable font.
+SLIDE 8: Strengths and Weaknesses – Shared Openly
+Title:
+What Are You Great At? Where Do You Need Help?
+Content:
+Ask yourself and your team:
+What do I bring into this team?
+
+Where do I fall short?
+
+Where do I need support?
+
+How do others see me?
+
+Don’t just reflect — compare answers.
+Speaker Notes:
+This isn’t just a solo exercise. You write down your strengths and weaknesses — but then you verify that your team sees it the same way. That process is where the real clarity happens. Maybe you think you’re a great communicator, but others experience you as too blunt or unclear. Maybe you think you’re the creative, but they need you to be the closer. Alignment here prevents friction down the line.
+Slide Design:
+Full-screen questions in text. Left-aligned layout. No visuals.
+SLIDE 9: Your Personal Work Manual
+Title:
+How to Get the Best (and Worst) Out of Me
+Content:
+Complete these prompts as a team:
+You get the best out of me when…
+
+You get the worst out of me when…
+
+I’m sometimes misunderstood when…
+
+Used by top teams to build trust fast.
+Speaker Notes:
+This exercise is incredibly simple and incredibly powerful. Ask everyone to fill in these prompts. Don’t just think — write them down. Share them. Then talk through the patterns. If someone says “I shut down when meetings drag on,” don’t take that personally — just work with it. These are the blueprints for how to collaborate with intention.
+Slide Design:
+Three bullet prompts centered. No images. White background.
+SLIDE 10: Feedback and Conflict Preferences
+Title:
+Design Your Feedback Loops Before You Need Them
+Content:
+Two critical prompts:
+The best way to give me feedback is…
+
+When we get into conflict, the best way to resolve it with me is…
+
+Don’t aim to avoid conflict. Aim to handle it well.
+Speaker Notes:
+Every founder will eventually have conflict with their team. That’s a given. What matters is how you deal with it. Some people want feedback directly and immediately. Others need a little time. Some prefer to talk it out in person. Others prefer to write. Don’t wait for a crisis to discover this. Define it early — and revisit it often. This is where psychological safety starts.
+Slide Design:
+Clear text on white background. Prompts formatted identically for emphasis.
+SLIDE 11: Remote Teams Need Explicit Norms
+Title:
+Working Remotely? You Can’t Afford to Guess.
+Content:
+Update your work style discussions for remote/hybrid setups:
+Preferred channels (Slack, email, calls)
+
+Response expectations
+
+Meeting boundaries
+
+Time zone clarity
+
+Written vs verbal communication style
+
+Remote removes feedback cues. Replace them with structure.
+Speaker Notes:
+In remote or hybrid teams, assumptions multiply. You don’t get those in-office cues. One person might think a short Slack message is efficient. The other thinks it’s rude. That’s why remote teams must be even more explicit about how they work. Clarify your hours, preferred channels, communication preferences. Structure replaces the informal feedback loops that office environments naturally provide.
+Slide Design:
+Bullet list on left. Simple title/section line.
+SLIDE 12: Expectations: The Silent Killer
+Title:
+Theme 3: Expectations Alignment
+Unspoken expectations are where most teams break down.
+Content:
+Three types of misaligned expectations:
+What I expect from myself
+
+What others expect from me
+
+What I expect from them
+
+Alignment builds trust. Silence erodes it.
+Speaker Notes:
+We’ve seen this happen over and over again: one founder thinks they’re responsible for product, but the other assumes they’re handling customers too. One founder is all-in full time, the other is side-gigging. Nobody says it aloud — but resentment builds. Expectations must be stated clearly, revisited regularly, and aligned before they become assumptions.
+SLIDE 13: What Founders Must Align On
+Title:
+Checklist: Are You Aligned On…?
+Content:
+Who owns what? (roles, domains, decisions)
+
+Time commitment (full-time? part-time?)
+
+Compensation and equity
+
+Culture and hiring values
+
+Exit plan and long-term vision
+
+Decision-making authority
+
+Conflict escalation process
+
+These must be stated, not assumed.
+Speaker Notes:
+This is a partial list — but even these are deal-breakers. Who’s the final decision-maker on product? Who talks to investors? Are you both full-time? What happens if you disagree about a hire? These are often glossed over in early stages — and that’s what breaks teams later. Run this checklist regularly. Don’t wait for friction to do it reactively.
+Slide Design:
+Clean checklist layout. Title with emphasis line. Two-column bullet formatting optional.
+SLIDE 14: Make Expectation Alignment a Practice
+Title:
+Check In, Don’t Check Out
+Content:
+Founders should:
+Review expectations quarterly
+
+Talk about what’s shifted
+
+Share new pressures or limits
+
+Acknowledge and adjust roles
+
+If your roles or goals evolve — your expectations must too.
+Speaker Notes:
+Startups don’t stay static. You raise a round. You lose a big customer. You hire a new exec. All of these change your reality — and your expectations of each other. That’s why this isn’t a one-time conversation. Make expectation check-ins a quarterly ritual. Start with: “What do I expect from myself right now? What do I need from you?” You’ll be amazed how much clarity that creates.
+Slide Design:
+Simple bulleted tips. No graphics. Plenty of white space.
+SLIDE 15: Interpersonal Equity – Beyond the Cap Table
+Title:
+Theme 4: Interpersonal Equity
+Fairness isn’t just about ownership.
+Content:
+What you give:
+Time
+
+Capital
+
+Expertise
+
+Leads
+
+Emotional energy
+
+What you get:
+Equity
+
+Salary
+
+Status
+
+Flexibility
+
+Decision power
+
+Perception of fairness determines team health.
+Speaker Notes:
+We all understand financial equity. But teams break down when they don’t talk about interpersonal equity — the perceived fairness of what each founder gives and gets. It’s not just about shares. One founder may be working nights and weekends while the other takes long breaks. One may feel they’re driving growth but getting little voice. This perception — even if unspoken — will erode your relationship.
+Slide Design:
+Two-column layout: “Give” on left, “Get” on right. Balanced spacing.
+SLIDE 16: Are You Satisfied With the Tradeoffs?
+Title:
+The Interpersonal Equity Check-In
+Content:
+Ask each founder:
+Am I satisfied with what I contribute vs. others?
+
+Am I satisfied with what I receive vs. others?
+
+Do I feel this is fair overall?
+
+Follow-up:
+If not, what needs to change?
+
+Speaker Notes:
+These questions are simple. But the answers will reveal everything. You might be surprised what your cofounder says. They may feel underappreciated or overcommitted. Or they may think you’re doing too much and burning out. Either way, talking about it surfaces the tension — so you can fix it before it breaks trust. Don’t just assess — act.
+Slide Design:
+Large font questions centered or left-aligned. Follow-up prompt at bottom.
+SLIDE 17: Equity Problems Don’t Solve Themselves
+Title:
+Unfairness, Ignored, Becomes Resentment
+Content:
+When a founder feels:
+“I’m carrying the team”
+
+“I don’t have real control”
+
+“I’m giving more than I get”
+
+But says nothing…
+That’s how teams implode.
+Fairness requires awareness + adjustment.
+Speaker Notes:
+You don’t need a perfect balance. But you do need shared clarity. If one of you feels taken for granted — and no one addresses it — that’s a slow fuse. Talk about what feels fair. If someone’s not satisfied, don’t get defensive — get curious. Maybe the roles need reshaping. Maybe equity needs rethinking. Whatever it is, fairness doesn’t mean equal — it means acknowledged.
+SLIDE 18: Prepare for the Break, Not Just the Build
+Title:
+Theme 5: Partnersh*t Scenarios
+What if we fail… because of us?
+Content:
+“If our startup fails 12 months from now due to interpersonal conflict, what are the top 3 reasons why?”
+Misaligned exit plans
+
+Eroded trust
+
+Avoided hard conversations
+
+The point: name it before it happens.
+Speaker Notes:
+Every startup runs a premortem on product failure. Few run one on team failure. But if 65% of failures are because of people problems, we have to ask: If this dies because of us — why? This is not about pessimism. It’s about honesty. It surfaces the real risks — so you can take real precautions. Because once you’re deep into conflict, it’s too late to debug calmly.
+Slide Design:
+Question at top. Three likely causes in a bulleted list below. Clear, direct.
+SLIDE 19: Run a Team Premortem
+Title:
+Use the Premortem to Reveal Hidden Risks
+Content:
+Run this exercise with your team:
+Imagine it’s one year from now.
+
+The company failed due to co-founder issues.
+
+What happened? List 3 plausible reasons.
+
+Now: What actions can we take to prevent each?
+
+Capture it. Revisit it. Update it.
+Speaker Notes:
+You do this with your product roadmap, right? Now do it with your cofounder roadmap. The best teams have hard conversations when stakes are low. Get your worries on the table. Talk about values, exit strategy, performance concerns, lifestyle shifts, family priorities. Then — write them down. Don’t assume alignment. Build it intentionally.
+Slide Design:
+Numbered step list. One clean font. No decoration.
+SLIDE 20: Common Premortem Red Flags
+Title:
+The Patterns We See Most Often
+Content:
+One founder disengages — without saying it
+
+Silent resentment builds over unequal contribution
+
+Decision-making authority isn’t clear
+
+Trust erodes due to poor communication
+
+Differing views on exit or company direction
+
+None of these start loud.
+They grow in silence.
+Speaker Notes:
+These aren’t dramatic breakups. They’re slow, quiet, and corrosive. You start noticing missed updates. Passive-aggressive comments. Hesitation in hard conversations. That’s why premortems matter. When people write out the future failure, they often realize — we’re halfway there already. This slide isn’t for fear. It’s for foresight.
+Slide Design:
+Bullet list. One sentence callout at the bottom for emphasis.
+SLIDE 21: Recap – Your Debugging Framework
+Title:
+The 5 Elements of a High-Trust Founding Team
+Content:
+Personal Motivations – Head / Heart / Wallet
+
+Working Style – Strengths, preferences, conflict habits
+
+Expectations – Role clarity and communication
+
+Interpersonal Equity – Fairness in give and take
+
+Partnersh*t Scenarios – Premortem planning
+
+High-functioning teams aren’t lucky. They’re designed.
+Speaker Notes:
+You now have a map. Five areas to focus on. Five tools to diagnose and strengthen your team. This isn’t just about avoiding conflict — it’s about building the kind of partnership that can scale through chaos. If you walk out of here with one idea, let it be this: great founding teams don’t just click — they commit to communication.
+Slide Design:
+Numbered list. Bold, tight layout. Optional subtitle line at bottom.
+SLIDE 22: Your Homework
+Title:
+Run the Founders’ User Guide with Your Team
+Content:
+Set aside 90 minutes
+
+Download the updated worksheet
+
+Fill it out individually
+
+Discuss as a group
+
+Capture your agreements and insights
+
+Revisit it after every major change.
+Speaker Notes:
+I invite you to actually do this. Set time with your team. Fill it out. Talk it through. You’ll find surprises — and alignment. If you’ve already done it before, do it again. The version of you at Seed is not the version of you at Series A. Don’t wait for tension. Build clarity while you’re still building trust.
+Slide Design:
+Numbered checklist. Download link can be shown at bottom if applicable.
+SLIDE 23: For VCs in the Room
+Title:
+How Investors Can Use the User Guide
+Content:
+When assessing a founding team:
+Ask how well they know each other’s motivations
+
+Ask how they handle conflict
+
+Ask if they’ve discussed fairness and role clarity
+
+Look for aligned exit expectations
+
+Encourage them to run the guide post-investment
+
+Founder alignment is a precondition for traction.
+Speaker Notes:
+This isn’t just for founders. If you’re a VC, you can use this tool as part of your diligence. Ask the right questions — not just about business model, but about the humans behind it. Founder conflict is your hidden risk. Support them in doing this work early. It’s one of the best things you can do for your investment.`;

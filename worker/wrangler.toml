@@ -1,0 +1,8 @@
+name = "founders-lab-chat"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+MODEL = "claude-sonnet-4-6"
+
+# Set the API key with: wrangler secret put ANTHROPIC_API_KEY

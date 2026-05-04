@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Founders Lab AI — Co-founder alignment coach</title>
+<meta name="description" content="Talk to the Founders Lab AI — a focused coach for co-founder alignment, conflict, and team dynamics.">
+<style>
+  :root {
+    --cream: #fef5ec;
+    --ink: #2c3f42;
+    --accent: #d4582a;
+    --soft: #f8e8d6;
+    --muted: #6b7a7c;
+    --user-bubble: #2c3f42;
+    --bot-bubble: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; height: 100%; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--cream);
+    color: var(--ink);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  header {
+    padding: 18px 24px;
+    border-bottom: 1px solid #e8d8c4;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-shrink: 0;
+  }
+  header h1 {
+    font-family: Georgia, serif;
+    font-size: 22px;
+    margin: 0;
+  }
+  header a { color: var(--accent); text-decoration: none; font-size: 14px; font-weight: 600; }
+  .chat {
+    flex: 1;
+    overflow-y: auto;
+    padding: 24px;
+    max-width: 760px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .msg {
+    margin: 14px 0;
+    display: flex;
+  }
+  .msg.user { justify-content: flex-end; }
+  .bubble {
+    max-width: 78%;
+    padding: 12px 16px;
+    border-radius: 14px;
+    font-size: 15px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  .msg.user .bubble {
+    background: var(--user-bubble);
+    color: white;
+    border-bottom-right-radius: 4px;
+  }
+  .msg.bot .bubble {
+    background: var(--bot-bubble);
+    color: var(--ink);
+    border: 1px solid #ead7c0;
+    border-bottom-left-radius: 4px;
+  }
+  .typing { color: var(--muted); font-style: italic; font-size: 14px; }
+  .composer {
+    border-top: 1px solid #e8d8c4;
+    padding: 14px 16px;
+    background: var(--cream);
+    flex-shrink: 0;
+  }
+  .composer-inner {
+    max-width: 760px;
+    margin: 0 auto;
+    display: flex;
+    gap: 8px;
+    align-items: flex-end;
+  }
+  textarea {
+    flex: 1;
+    padding: 12px 14px;
+    border: 1px solid #d8dadb;
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: inherit;
+    resize: none;
+    background: white;
+    min-height: 44px;
+    max-height: 160px;
+  }
+  textarea:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+  button {
+    background: var(--accent);
+    color: white;
+    border: none;
+    padding: 0 22px;
+    height: 44px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+  button:disabled { opacity: 0.5; cursor: not-allowed; }
+  .hint {
+    text-align: center;
+    color: var(--muted);
+    font-size: 13px;
+    padding: 6px 0 0;
+  }
+  .starter {
+    display: inline-block;
+    background: var(--soft);
+    color: var(--ink);
+    border: 1px solid #ead7c0;
+    border-radius: 16px;
+    padding: 8px 14px;
+    margin: 4px 6px 4px 0;
+    cursor: pointer;
+    font-size: 13px;
+    font-family: inherit;
+  }
+  .starter:hover { background: #ecd9c2; }
+  .starters {
+    margin: 8px 0 4px;
+  }
+  .intro {
+    text-align: center;
+    padding: 30px 16px;
+    color: var(--muted);
+  }
+  .intro h2 {
+    font-family: Georgia, serif;
+    color: var(--ink);
+    font-size: 24px;
+    margin: 0 0 8px;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Founders Lab AI</h1>
+    <a href="/founders-lab/">← Back to toolkit</a>
+  </header>
+
+  <div class="chat" id="chat">
+    <div class="intro">
+      <h2>What's going on with your co-founder team?</h2>
+      <p>Trained on Ryan's full Founders Lab framework — 25 Tough Questions, Head/Heart/Wallet, Cognitive Bias Bugs, and the Founders' User Guide.</p>
+      <div class="starters">
+        <button class="starter" data-q="My co-founder and I keep making decisions, but nothing actually changes. What's going on?">Decisions don't stick</button>
+        <button class="starter" data-q="We split equity 50/50 but I feel like I'm doing more. How do I bring this up?">Equity feels off</button>
+        <button class="starter" data-q="Walk me through the 25 Tough Questions for founders.">25 Tough Questions</button>
+        <button class="starter" data-q="What is the Head/Heart/Wallet framework?">Head/Heart/Wallet</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="composer">
+    <div class="composer-inner">
+      <textarea id="input" placeholder="Describe what's going on..." rows="1"></textarea>
+      <button id="send" type="button">Send</button>
+    </div>
+    <p class="hint">For real human help, <a href="https://www.linkedin.com/in/rshuken" target="_blank">message Ryan on LinkedIn</a>.</p>
+  </div>
+
+<script>
+const API_URL = "https://founders-lab-chat.ryanshuken.workers.dev/";
+const chat = document.getElementById("chat");
+const input = document.getElementById("input");
+const sendBtn = document.getElementById("send");
+const messages = [];
+
+function addMsg(role, text) {
+  const div = document.createElement("div");
+  div.className = "msg " + (role === "user" ? "user" : "bot");
+  const bubble = document.createElement("div");
+  bubble.className = "bubble";
+  bubble.textContent = text;
+  div.appendChild(bubble);
+  chat.appendChild(div);
+  chat.scrollTop = chat.scrollHeight;
+  return bubble;
+}
+
+async function send(text) {
+  if (!text.trim()) return;
+  // remove intro on first send
+  const intro = chat.querySelector(".intro");
+  if (intro) intro.remove();
+
+  messages.push({ role: "user", content: text });
+  addMsg("user", text);
+  input.value = "";
+  input.style.height = "auto";
+  sendBtn.disabled = true;
+
+  const typing = addMsg("bot", "…thinking");
+  typing.classList.add("typing");
+
+  try {
+    const r = await fetch(API_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ messages }),
+    });
+    const data = await r.json();
+    typing.classList.remove("typing");
+    if (data.error) {
+      typing.textContent = "Sorry — something broke. Try again, or message Ryan on LinkedIn.";
+    } else {
+      typing.textContent = data.reply;
+      messages.push({ role: "assistant", content: data.reply });
+    }
+  } catch (e) {
+    typing.classList.remove("typing");
+    typing.textContent = "Network error. Try again, or message Ryan on LinkedIn.";
+  } finally {
+    sendBtn.disabled = false;
+    input.focus();
+  }
+}
+
+sendBtn.addEventListener("click", () => send(input.value));
+input.addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    send(input.value);
+  }
+});
+input.addEventListener("input", () => {
+  input.style.height = "auto";
+  input.style.height = Math.min(input.scrollHeight, 160) + "px";
+});
+document.querySelectorAll(".starter").forEach(b => {
+  b.addEventListener("click", () => send(b.dataset.q));
+});
+</script>
+</body>
+</html>

@@ -136,6 +136,64 @@
     font-weight: 600;
     margin-bottom: 20px;
   }
+  .ai-btn {
+    display: block;
+    text-align: center;
+    background: var(--ink);
+    color: var(--cream);
+    padding: 16px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0 0 36px;
+    transition: opacity 0.15s;
+  }
+  .ai-btn:hover { opacity: 0.92; }
+  .connect {
+    margin-top: 56px;
+    padding: 32px;
+    background: white;
+    border: 2px solid var(--ink);
+    border-radius: 10px;
+    text-align: center;
+  }
+  .connect h2 {
+    font-family: Georgia, serif;
+    font-size: 26px;
+    margin: 0 0 8px;
+  }
+  .connect-sub {
+    margin: 0 0 22px;
+    color: var(--muted);
+    font-size: 15px;
+  }
+  .linkedin-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #0a66c2;
+    color: white;
+    padding: 14px 28px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: opacity 0.15s;
+  }
+  .linkedin-btn:hover { opacity: 0.9; }
+  .connect-note {
+    margin: 18px 0 0;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .connect-note strong {
+    color: var(--ink);
+    font-size: 14px;
+    background: var(--soft);
+    padding: 2px 8px;
+    border-radius: 4px;
+  }
 </style>
 </head>
 <body>
@@ -150,8 +208,10 @@
 
     <div class="stat">
       <strong>The Founders Lab Toolkit</strong><br>
-      Worksheets, the 25 Tough Questions, the Founders' User Guide, and early access to our AI co-founder alignment assistant.
+      Worksheets, the 25 Tough Questions, the Founders' User Guide, and our AI co-founder alignment assistant.
     </div>
+
+    <a class="ai-btn" href="chat.html">⚡ Talk to the Founders Lab AI now →</a>
 
     <ul class="checklist">
       <li>The full Founders' User Guide framework (PDF)</li>
@@ -182,6 +242,16 @@
       <button type="submit">Send me the toolkit</button>
       <p class="small">No spam. We'll email the toolkit and AI assistant link.</p>
     </form>
+
+    <div class="connect">
+      <h2>Have a question? Reach me directly.</h2>
+      <p class="connect-sub">The fastest way to get a real answer is to connect on LinkedIn — I respond personally.</p>
+      <a class="linkedin-btn" href="https://www.linkedin.com/in/rshuken" target="_blank" rel="noopener">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5V9h3v10zM6.5 7.7a1.7 1.7 0 110-3.4 1.7 1.7 0 010 3.4zM19 19h-3v-5.3c0-1.3-.5-2.2-1.6-2.2-.9 0-1.4.6-1.6 1.2-.1.2-.1.5-.1.8V19h-3V9h3v1.3c.4-.6 1.1-1.5 2.7-1.5 2 0 3.5 1.3 3.5 4V19z"/></svg>
+        Connect with Ryan on LinkedIn
+      </a>
+      <p class="connect-note">If LinkedIn asks for the last 4 digits of my phone number to confirm you know me: <strong>7157</strong></p>
+    </div>
 
     <div class="footer">
       Built by <a href="https://www.linkedin.com/in/rshuken" target="_blank" rel="noopener">Ryan Shuken</a> ·
