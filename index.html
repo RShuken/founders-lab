@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Founders Lab — Get Your Co-founder Toolkit</title>
+<meta name="description" content="A debugging framework for founder relationships. Get the toolkit, worksheets, and AI assistant access.">
+<style>
+  :root {
+    --cream: #fef5ec;
+    --ink: #2c3f42;
+    --accent: #d4582a;
+    --soft: #f8e8d6;
+    --muted: #6b7a7c;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--cream);
+    color: var(--ink);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 56px 24px 80px; }
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(34px, 5vw, 52px);
+    line-height: 1.08;
+    margin: 0 0 12px;
+    letter-spacing: -0.5px;
+  }
+  .kicker {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  .lede {
+    font-size: 19px;
+    color: var(--ink);
+    margin: 0 0 32px;
+    max-width: 580px;
+  }
+  .stat {
+    background: var(--soft);
+    border-left: 4px solid var(--accent);
+    padding: 16px 20px;
+    margin: 0 0 36px;
+    border-radius: 4px;
+  }
+  .stat strong { font-size: 22px; }
+  .checklist {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 36px;
+  }
+  .checklist li {
+    padding: 8px 0 8px 30px;
+    position: relative;
+    font-size: 16px;
+  }
+  .checklist li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    top: 8px;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  form {
+    background: white;
+    padding: 28px;
+    border-radius: 8px;
+    box-shadow: 0 2px 16px rgba(44,63,66,0.08);
+  }
+  label {
+    display: block;
+    font-weight: 600;
+    margin: 14px 0 6px;
+    font-size: 14px;
+  }
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1px solid #d8dadb;
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: inherit;
+    background: #fafafa;
+  }
+  input:focus, textarea:focus {
+    outline: none;
+    border-color: var(--accent);
+    background: white;
+  }
+  textarea { min-height: 90px; resize: vertical; }
+  button {
+    background: var(--accent);
+    color: white;
+    border: none;
+    padding: 14px 28px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 18px;
+    width: 100%;
+    transition: opacity 0.15s;
+  }
+  button:hover { opacity: 0.9; }
+  .small {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 14px;
+    text-align: center;
+  }
+  .footer {
+    margin-top: 48px;
+    text-align: center;
+    font-size: 14px;
+    color: var(--muted);
+  }
+  .footer a { color: var(--accent); text-decoration: none; }
+  .badge {
+    display: inline-block;
+    background: var(--soft);
+    color: var(--ink);
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="badge">Boulder Startup Week 2026</div>
+    <div class="kicker">The Hidden Co-Founder Code</div>
+    <h1>Fix the 65%.</h1>
+    <p class="lede">
+      65% of startups fail because of founder relationship breakdowns — not bad ideas, not bad markets.
+      Get the framework that prevents it.
+    </p>
+
+    <div class="stat">
+      <strong>The Founders Lab Toolkit</strong><br>
+      Worksheets, the 25 Tough Questions, the Founders' User Guide, and early access to our AI co-founder alignment assistant.
+    </div>
+
+    <ul class="checklist">
+      <li>The full Founders' User Guide framework (PDF)</li>
+      <li>25 Tough Questions worksheet</li>
+      <li>Cognitive bias debugging cheatsheet</li>
+      <li>Early access to the AI alignment assistant</li>
+    </ul>
+
+    <form action="https://formsubmit.co/ryanshuken@gmail.com" method="POST">
+      <label for="name">Your name</label>
+      <input type="text" id="name" name="name" required placeholder="Jane Founder">
+
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required placeholder="you@startup.com">
+
+      <label for="company">Startup / company (optional)</label>
+      <input type="text" id="company" name="company" placeholder="Cool Co.">
+
+      <label for="challenge">Biggest co-founder challenge right now? (optional)</label>
+      <textarea id="challenge" name="challenge" placeholder="e.g. We can't seem to align on roles..."></textarea>
+
+      <input type="hidden" name="_subject" value="New Founders Lab Signup">
+      <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_captcha" value="false">
+      <input type="hidden" name="_autoresponse" value="Thanks for signing up for the Founders Lab!&#10;&#10;You'll get the toolkit (worksheets, framework, 25 tough questions) and early access to the AI alignment assistant within 24 hours.&#10;&#10;In the meantime — share this with a co-founder who needs it.&#10;&#10;Ryan Shuken&#10;https://www.linkedin.com/in/rshuken">
+      <input type="hidden" name="_next" value="https://rshuken.github.io/founders-lab/thanks.html">
+
+      <button type="submit">Send me the toolkit</button>
+      <p class="small">No spam. We'll email the toolkit and AI assistant link.</p>
+    </form>
+
+    <div class="footer">
+      Built by <a href="https://www.linkedin.com/in/rshuken" target="_blank" rel="noopener">Ryan Shuken</a> ·
+      Boulder Startup Week 2026
+    </div>
+  </div>
+</body>
+</html>
